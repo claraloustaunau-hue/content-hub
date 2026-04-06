@@ -19,174 +19,121 @@ Los guiones que generan ruido comparten un patrón: **priorizan el gag sobre el 
 
 ---
 
-## Guiones a revisar: análisis y alternativas
+## Guiones alternativos
 
 ---
 
-### 1. TIPS: "Alerta VAR" (Fase 1)
+### GUION 1 — FASE 1 | TIPS: "Alerta VAR: el error que te costó ventas en el último Hot Sale"
 
-**Guion original:**
+*Reemplaza: "Alerta VAR — No te cobres penal vos mismo con comisiones altas"*
 
-> Plantilla VAR + imagen con carritos abandonados. Anto hablando a cámara tipo DT: "Llega Hot Sale y el checkout debe ser eficiente... No te cobres penal vos mismo. Configurá el Checkout acelerado... Y activá Pago Nube para ahorrar desde el minuto 0 del partido."
+| Escena | Imagen | Audio | Sobreimpresos |
+|--------|--------|-------|---------------|
+| 1 | Plantilla VAR a pantalla completa + gráfico con tasa de abandono de carrito (dato real del ecosistema Tiendanube). | — | ALERTA VAR: 7 de cada 10 carritos se abandonan en Hot Sale. |
+| 2 | Anto hablando a cámara. Tono directo, calmado, de alguien que vio los números. No actúa de DT. | Anto: "Dato real de nuestra plataforma: en el último Hot Sale, la tasa de abandono de carrito subió un X%. ¿La razón número uno? Un checkout largo o con fricciones." | |
+| 3 | Screen recording rápido del Checkout Acelerado en acción: se ve cómo un cliente completa la compra en un clic. | Anto (voz en off): "Checkout Acelerado guarda los datos de tu cliente. Segundo pedido: un clic y listo. Eso es la diferencia entre perder la venta y cerrarla." | Insert: Checkout Acelerado |
+| 4 | Anto hablando a cámara, gesto natural de "y hay más". | Anto: "Y si encima estás pagando comisiones que te comen el margen, Pago Nube tiene cero costo de transacción. Hacé la cuenta de cuánto te ahorrás en un Hot Sale." | Insert: Pago Nube |
+| 5 | Placa final con texto bold sobre fondo de marca. | — | Configuralo antes del 12 de mayo. Link en bio. |
 
-**Por qué chirría:**
-
-El formato VAR es visualmente atractivo y el hook funciona, pero el contenido real (configurar checkout + activar Pago Nube) queda enterrado debajo de la metáfora. "No te cobres penal vos mismo" es simpático pero vacío — no le dice al merchant *por qué* ni *cuánto* impacta. El cierre "la previa de Hot Sale es ahora, ¿ya estás optimizando tu Tiendanube para romperla?" es genérico y podría ser de cualquier marca.
-
-**Alternativa propuesta: "Alerta VAR: el error que te costó ventas en el último Hot Sale"**
-
-| Escena | Visual | Audio / Texto |
-|--------|--------|---------------|
-| 1 | Plantilla VAR + gráfico con tasa de abandono de carrito (dato real del ecosistema Tiendanube) | **Sobreimpreso:** "ALERTA VAR: 7 de cada 10 carritos se abandonan en Hot Sale" |
-| 2 | Anto hablando a cámara, tono directo pero calmado (no DT, sino alguien que sabe) | "Dato real de nuestra plataforma: en el último Hot Sale, la tasa de abandono de carrito subió un X%. ¿La razón número uno? Un checkout largo o con fricciones." |
-| 3 | Screen recording rápido del checkout acelerado en acción | "Checkout Acelerado guarda los datos de tu cliente. Segundo pedido: un clic y listo. Eso es la diferencia entre perder la venta y cerrarla." |
-| 4 | Anto con gesto de "y hay más" | "Y si encima estás pagando comisiones que te comen el margen... Pago Nube tiene cero costo de transacción. Hacé la cuenta de cuánto te ahorrás en un Hot Sale." |
-| 5 | Pantalla con texto bold | **Sobreimpreso:** "Configuralo antes del 12 de mayo. Link en bio." |
-
-**Qué cambia:** El VAR sigue como hook visual (funciona, es reconocible), pero el contenido es un dato real + solución concreta + impacto cuantificable. Anto no actúa de DT; habla como alguien que vio los números y te los comparte. La metáfora es el envoltorio, no el contenido.
+**Por qué cambia:** El VAR sigue como hook visual (funciona, es reconocible), pero el contenido es un dato real + solución concreta + impacto cuantificable. Anto habla como alguien que vio los números y te los comparte. La metáfora es el envoltorio, no el contenido.
 
 ---
 
-### 2. TREND: "POV configurar Envío Nube para ganar por goleada" (Fase 1)
+### GUION 2 — FASE 1 | TREND: "POV: descubrís cuánto te costó el envío en el último Hot Sale"
 
-**Guion original:**
+*Reemplaza: "POV: llega Hot Sale y tenés que configurar Envío Nube para ganar por goleada"*
 
-> Anto frente a la computadora enfocada. Plano detalle de manos, teclado. Pantalla configurando Envío Nube. Plano detalle de pierna moviéndose nerviosa. Audio: "POV: llega Hot Sale y tenés que configurar Envío Nube en tu Tiendanube para ganar por goleada."
+| Escena | Imagen | Audio | Sobreimpresos |
+|--------|--------|-------|---------------|
+| 1 | Anto/creadora frente a la computadora. Abre una planilla o el panel de administración. Expresión concentrada. | — | POV: revisás cuánto gastaste en envíos en el Hot Sale pasado. |
+| 2 | Reacción genuina de sorpresa (no exagerada) mirando la pantalla. Plano medio, se le ve la cara y parte de la pantalla. | Audio trending vigente (tipo "oh no..." o equivalente del momento). | |
+| 3 | Corte a pantalla de Envío Nube: se ven las opciones de configuración (envío gratis con monto mínimo, same day, seguimiento integrado). | — | Con Envío Nube podés ofrecer envío gratis a partir de $X, same day y seguimiento integrado. |
+| 4 | Anto/creadora aliviada. Asiente mirando a cámara. | — | Las tiendas con envío gratis convierten un X% más en Hot Sale. Configuralo ahora. Link en bio. |
 
-**Por qué chirría:**
-
-Este guion tiene muy poco contenido. Es un POV donde alguien tipea nerviosamente con un texto sobreimpreso que dice... lo que ya sabemos. No hay insight, no hay giro, no hay valor. El "ganar por goleada" no agrega nada. Después de verlo, el merchant sigue sin saber *por qué* debería configurar Envío Nube ni *qué* gana con hacerlo.
-
-**Alternativa propuesta: "POV: descubrís cuánto te costó el envío en el último Hot Sale"**
-
-| Escena | Visual | Audio / Texto |
-|--------|--------|---------------|
-| 1 | Creadora/Anto frente a computadora, abre planilla o panel | **Sobreimpreso:** "POV: revisás cuánto gastaste en envíos el Hot Sale pasado" |
-| 2 | Reacción genuina de sorpresa (no exagerada) mirando la pantalla | Audio trending (algo tipo "oh no..." o similar que esté vigente) |
-| 3 | Corte a pantalla con la configuración de Envío Nube, mostrando las opciones de envío gratis con monto mínimo, same day, etc. | **Sobreimpreso:** "Con Envío Nube podés ofrecer envío gratis a partir de $X, same day y seguimiento integrado" |
-| 4 | Creadora aliviada, asintiendo | **Sobreimpreso:** "Las tiendas con envío gratis convierten un X% más en Hot Sale. Configuralo ahora." |
-
-**Qué cambia:** El POV sigue siendo nativo de TikTok, pero el giro emocional viene de un dolor real del merchant (cuánto gastó en envíos), no de nerviosismo genérico. El dato de cierre le da una razón concreta para actuar.
+**Por qué cambia:** El POV sigue siendo nativo de TikTok, pero el giro emocional viene de un dolor real del merchant (cuánto gastó en envíos), no de nerviosismo genérico. El dato de cierre da una razón concreta para actuar.
 
 ---
 
-### 3. EGC: "Cámara oculta — el secreto para ganarle a Hot Sale" (Fase 2)
+### GUION 3 — FASE 2 | EGC: "Lo que el equipo de Tiendanube configuraría en su propia tienda para Hot Sale"
 
-**Guion original:**
+*Reemplaza: "Cámara oculta: ¿Qué haría el equipo de Tiendanube para ganar el partido de Hot Sale?"*
 
-> Plano tipo espía detrás de una planta. Sol y Lusi susurrando: "El Hot Sale se viene pesado. Hay que jugar con todo." / "Olvidate del azar. Si queremos ganar, la clave es Meta Ads." / "¿Y el remate? Si no activamos Marketing Nube, estamos afuera. Segmentación total, directo al ángulo." Sol descubre la cámara: "¿Estaban escuchando? No es secreto. Es estrategia."
+| Escena | Imagen | Audio | Sobreimpresos |
+|--------|--------|-------|---------------|
+| 1 | Sol y Lusi sentadas en un espacio de trabajo. Cámara informal (celular apoyado en el escritorio). Se las ve relajadas, como en una charla real entre compañeras. | — | Le pregunté al equipo de Tiendanube: si tuvieran su propia tienda, ¿qué configuran primero para Hot Sale? |
+| 2 | Sol hablando natural, como si le respondiera a una amiga. Gestualidad auténtica. | Sol: "Yo lo primero que hago es Meta Ads con campaña de remarketing una semana antes. Porque la gente empieza a curiosear y vos querés que cuando arranque el Hot Sale, ya te tengan en la cabeza." | |
+| 3 | Lusi complementa. Pick up natural, no guionado. | Lusi: "Yo sumo Marketing Nube desde el día uno. El mail de carrito abandonado en Hot Sale es oro. Literal, las tiendas que lo tienen activo recuperan un X% de ventas que se iban." | |
+| 4 | Ambas mirando a cámara. Sol cierra con tono de resumen. | Sol: "Es básicamente eso: que la gente te encuentre y que la que se va, vuelva. Si tenés esas dos cosas, ya arrancás con ventaja." | |
+| 5 | Placa final con texto sobre fondo de marca. | — | Meta Ads + Marketing Nube. Configuralos antes del Hot Sale. Link en bio. |
 
-**Por qué chirría:**
-
-Este es el guion más caricaturesco de la tanda. Dos empleadas actuando de espías susurrando detrás de una planta, con diálogos que mezclan jerga futbolera forzada ("directo al ángulo", "el remate") con nombres de productos, todo en un tono de telenovela cómica. El problema principal: **las personas del equipo de Tiendanube están haciendo un sketch donde parecen no saber nada y fingen estar conspirando**. Eso es exactamente lo opuesto a transmitir expertise.
-
-El EGC tiene que sentirse real. Si queremos mostrar al equipo, tiene que ser en un contexto donde se note que genuinamente saben de lo que hablan.
-
-**Alternativa propuesta: "Lo que el equipo de Tiendanube configuraría en su propia tienda para Hot Sale"**
-
-| Escena | Visual | Audio / Texto |
-|--------|--------|---------------|
-| 1 | Sol y Lusi sentadas en un espacio de trabajo, cámara informal (puede ser celular apoyado en el escritorio, no producción pesada). Tono de charla real, no actuada. | **Sobreimpreso:** "Le pregunté al equipo de Tiendanube: si tuvieran su propia tienda, ¿qué configuran primero para Hot Sale?" |
-| 2 | Sol hablando natural, como si le respondiera a una amiga | Sol: "Yo lo primero que hago es Meta Ads con campaña de remarketing una semana antes. Porque la gente empieza a curiosear y vos querés que cuando arranque el Hot Sale, ya te tengan en la cabeza." |
-| 3 | Lusi complementa, pick up natural | Lusi: "Yo sumo Marketing Nube desde el día uno. El mail de carrito abandonado en Hot Sale es oro. Literal, las tiendas que lo tienen activo recuperan un X% de ventas que se iban." |
-| 4 | Ambas mirando a cámara, Sol cierra | Sol: "Es básicamente eso: que la gente te encuentre y que la que se va, vuelva. Si tenés esas dos cosas, ya arrancás con ventaja." |
-| 5 | Pantalla final con texto | **Sobreimpreso:** "Meta Ads + Marketing Nube. Configuralos antes del Hot Sale. Link en bio." |
-
-**Qué cambia:** Mismo equipo, mismos productos, mismo formato EGC. Pero en lugar de un sketch de espionaje, es una conversación genuina donde el equipo **demuestra que sabe** compartiendo lo que ellas mismas harían. El tono es relajado y cercano, pero el contenido transmite competencia. Es la diferencia entre actuar expertise y ser experto.
+**Por qué cambia:** Mismo equipo, mismos productos, mismo formato EGC. Pero en lugar de un sketch de espionaje, es una conversación genuina donde el equipo demuestra que sabe compartiendo lo que ellas mismas harían. El tono es relajado y cercano, pero transmite competencia real.
 
 ---
 
-### 4. EGC: "La hinchada de Tiendanube pidiéndote que chequees la App Nube" (Fase 3)
+### GUION 4 — FASE 3 | EGC: "En vivo desde Tiendanube, día 1 de Hot Sale"
 
-**Guion original:**
+*Reemplaza: "La hinchada de Tiendanube pidiéndote que chequees la App Nube"*
 
-> Empleados parados en sala de capacitación, mirando a cámara con gesto de "por favor", como hinchas en la tribuna. Lipsync con audio a definir. Sobreimpreso: "La hinchada de Tiendanube pidiéndote que chequees la App Nube."
+| Escena | Imagen | Audio | Sobreimpresos |
+|--------|--------|-------|---------------|
+| 1 | Video tipo selfie del equipo en la oficina durante Hot Sale. Se ven pantallas con dashboards de fondo (borrosos por privacidad). Energía real, no actuada. Se siente espontáneo. | — | En vivo desde Tiendanube, día 1 de Hot Sale. |
+| 2 | Alguien del equipo habla a cámara. Rápido, con energía genuina de quien está en medio de algo grande. | "Son las 3 de la tarde y ya estamos viendo un X% más de transacciones que ayer a esta hora. La categoría que más creció hasta ahora: [dato real]. Si vendés eso, este es tu momento." | |
+| 3 | Otro miembro del equipo se suma. Aparece en cuadro o toma el celular. | "Y un dato que están subestimando: la App Nube. Las tiendas que monitorean desde la app están reaccionando más rápido a los picos. Es como tener el dashboard en el bolsillo." | Insert: App Nube |
+| 4 | Plano grupal del equipo. Gesto de "estamos acá, seguimos". | — | Seguimos monitoreando. Los mantenemos al tanto. |
 
-**Por qué chirría:**
-
-El equipo de Tiendanube haciendo lipsync como hinchas suplicantes es gracioso, pero posiciona a la marca como la que ruega en lugar de la que guía. Es entretenido y puede funcionar como contenido de identificación puro, pero durante la semana del Hot Sale — cuando los merchants están en modo máxima atención — es un espacio que se podría usar mejor.
-
-Además, el mensaje ("chequeá la App Nube") es demasiado genérico. ¿Por qué debería chequearla? ¿Qué va a encontrar ahí que le cambie el Hot Sale?
-
-**Alternativa propuesta: "El equipo de Tiendanube en pleno Hot Sale: lo que estamos viendo en los números"**
-
-| Escena | Visual | Audio / Texto |
-|--------|--------|---------------|
-| 1 | Video tipo selfie/stories del equipo en la oficina durante Hot Sale. Pantallas con dashboards de fondo (borrosos por privacidad). Energía real, no actuada. | **Sobreimpreso:** "En vivo desde Tiendanube, día 1 de Hot Sale" |
-| 2 | Alguien del equipo habla a cámara, rápido y con energía genuina | "Son las 3 de la tarde y ya estamos viendo un X% más de transacciones que ayer a esta hora. La categoría que más creció hasta ahora: [dato real]. Si vendés eso, este es tu momento." |
-| 3 | Otro miembro del equipo se suma | "Y un dato que están subestimando: la App Nube. Las tiendas que monitorean desde la app están reaccionando más rápido a los picos. Es como tener el dashboard en el bolsillo." |
-| 4 | Cierre colectivo, energía de equipo que está en la trinchera | **Sobreimpreso:** "Seguimos monitoreando. Los mantenemos al tanto." |
-
-**Qué cambia:** Mismo formato EGC, mismo momento (durante Hot Sale), misma energía grupal. Pero en lugar de actuar de hinchas, el equipo se muestra haciendo lo que realmente hace: monitorear el evento y compartir lo que ven en tiempo real. Eso es expertise genuino. El mention de la App Nube llega orgánicamente como herramienta que mencionan porque realmente la usan, no como un pedido suelto.
+**Por qué cambia:** En lugar de actuar de hinchas suplicantes, el equipo se muestra haciendo lo que realmente hace: monitorear el evento y compartir lo que ven en tiempo real. La mención de la App Nube llega orgánicamente como herramienta que usan porque funciona, no como un pedido suelto.
 
 ---
 
-### 5. TREND: "Hot Sale es fácil, solo tenés que bajar los precios" (Fase 2)
+### GUION 5 — FASE 2 | TREND: "Hot Sale es fácil, solo tenés que bajar los precios"
 
-**En la estrategia pero sin guion detallado. El visual propuesto es Scaloni llorando.**
+*Reemplaza: el mismo concepto, que solo tenía el visual de Scaloni llorando sin desarrollo posterior.*
 
-**Por qué puede salirse del tono:**
+| Escena | Imagen | Audio | Sobreimpresos |
+|--------|--------|-------|---------------|
+| 1 | Meme de Scaloni llorando o imagen trending equivalente. | Audio trending acorde (si aplica). | "Hot Sale es fácil, solo tenés que bajar los precios." |
+| 2 | Corte abrupto a Anto o creadora. Cara seria, mira directo a cámara. El cambio de registro es intencional. | Anto: "Dale, hablemos en serio un segundo. Bajar precios sin estrategia es regalar margen. Lo que realmente funciona:" | |
+| 3 | Pantalla con texto rápido, estilo lista. Aparecen los puntos uno a uno con cortes ágiles o animación simple. | Anto (voz en off, ritmo rápido): "Uno: descuentos escalonados — más comprás, más ahorrás. Dos: combos de productos complementarios. Tres: envío gratis con monto mínimo — las tiendas que lo usan venden X% más. Cuatro: remarketing a los que visitaron y no compraron." | 1. Descuentos escalonados. 2. Combos complementarios. 3. Envío gratis con monto mínimo. 4. Remarketing. |
+| 4 | Anto mirando a cámara, cierre con convicción pero sin solemnidad. | Anto: "No se trata de vender barato. Se trata de vender inteligente." | |
 
-Depende de la ejecución. Si es solo el meme de Scaloni + texto irónico, es un trend de humor puro sin capa de valor. Puede funcionar como contenido de identificación si se le agrega un giro que transforme la ironía en un aprendizaje.
-
-**Alternativa propuesta: darle una segunda parte**
-
-| Escena | Visual | Audio / Texto |
-|--------|--------|---------------|
-| 1 | Meme/imagen Scaloni llorando (o audio trending equivalente) | **Sobreimpreso:** "Hot Sale es fácil, solo tenés que bajar los precios" |
-| 2 | Corte abrupto a Anto o creadora con cara seria, mirando a cámara | "Dale, hablemos en serio. Bajar precios sin estrategia es regalar margen. Lo que realmente funciona:" |
-| 3 | Texto rápido en pantalla, estilo lista | "1. Descuentos escalonados (más comprás, más ahorrás). 2. Combos de productos complementarios. 3. Envío gratis con monto mínimo (las tiendas que lo usan venden X% más). 4. Remarketing a los que visitaron y no compraron." |
-| 4 | Anto/creadora cierra | "No se trata de vender barato. Se trata de vender inteligente." |
-
-**Qué cambia:** El trend funciona como hook (primeros 2 segundos), pero el video no se queda en el chiste. Le da al merchant algo concreto para hacer distinto. Es humor + expertise en 30 segundos.
+**Por qué cambia:** El trend funciona como hook (primeros 2 segundos), pero el video no se queda en el chiste. Le da al merchant 4 acciones concretas. Es humor + expertise en 30 segundos.
 
 ---
 
-### 6. TREND: "Marketing Nube viendo como lo dejás en el banco de suplentes" (Fase 2)
+### GUION 6 — FASE 2 | TREND: "Lo que Marketing Nube hace mientras vos dormís"
 
-**Sin guion detallado. Solo el concepto.**
+*Reemplaza: "Marketing Nube viendo como lo dejás en el banco de suplentes"*
 
-**Por qué puede salirse del tono:**
+| Escena | Imagen | Audio | Sobreimpresos |
+|--------|--------|-------|---------------|
+| 1 | Pantalla dividida (split screen). Izquierda: merchant durmiendo tranquilo o scrolleando en la cama. Derecha: screen recording de Marketing Nube mandando mails automáticos de carrito abandonado en segundo plano. | — | Vos a las 2am durmiendo. Marketing Nube a las 2am: |
+| 2 | Zoom a la pantalla derecha. Aparece una notificación de venta recuperada. | Sonido de caja registradora / "cha-ching". | Venta recuperada. |
+| 3 | Pantalla completa con dato en texto grande. | — | X% de los carritos abandonados se recuperan con un mail automático. Marketing Nube lo hace solo. |
+| 4 | Placa final con CTA. | — | Activalo antes del Hot Sale. Link en bio. |
 
-Personificar un producto como un jugador resentido es un recurso que puede funcionar una vez, pero si se repite (junto con el resto de metáforas futboleras) contribuye a la sensación de que todo es un partido y nada es negocio real.
-
-**Alternativa propuesta: "Lo que Marketing Nube hace mientras vos ni sabías que existía"**
-
-| Escena | Visual | Audio / Texto |
-|--------|--------|---------------|
-| 1 | Pantalla dividida: a la izquierda, merchant scrolleando tranquilo; a la derecha, Marketing Nube mandando mails automáticos de carrito abandonado en segundo plano | **Sobreimpreso:** "Vos a las 2am durmiendo. Marketing Nube a las 2am:" |
-| 2 | Zoom a la pantalla derecha: notificación de venta recuperada | Audio: sonido de caja registradora o "cha-ching" |
-| 3 | Texto en pantalla | "X% de los carritos abandonados se recuperan con un mail automático. Marketing Nube lo hace solo." |
-| 4 | CTA | **Sobreimpreso:** "Activalo antes del Hot Sale. Link en bio." |
-
-**Qué cambia:** En lugar de antropomorfizar el producto en un sketch futbolero, mostramos lo que literalmente hace por vos mientras dormís. El formato "vos vs. tu herramienta" es nativo de TikTok (el split screen), el dato cierra con impacto, y el producto se posiciona como inteligente, no como resentido.
+**Por qué cambia:** En lugar de personificar el producto como un jugador resentido, mostramos lo que literalmente hace por vos mientras dormís. El formato split screen es nativo de TikTok, el dato cierra con impacto, y el producto se posiciona como inteligente, no como resentido.
 
 ---
 
-### 7. EGC: "El equipo habla sobre el clásico que se viene" (Fase 2)
+### GUION 7 — FASE 2 | EGC: "Las 5 preguntas que más nos hacen antes de cada Hot Sale"
 
-**Concepto original:** El equipo de Tiendanube habla sobre el "clásico que se viene" (Hot Sale) y los jugadores que no pueden faltar para ganar.
+*Reemplaza: "El equipo habla sobre el clásico que se viene (Hot Sale) y los jugadores que no pueden faltar"*
 
-**Por qué chirría:**
+| Escena | Imagen | Audio | Sobreimpresos |
+|--------|--------|-------|---------------|
+| 1 | Plano abierto de alguien caminando por la oficina con el celular, filmando tipo "vamos a preguntarle al equipo". Cámara de celular, cero producción pesada. | — | Le pregunté a 5 personas de Tiendanube la duda que más les consultan antes de Hot Sale. |
+| 2 | Persona 1 — área de Soporte. Se la ve en su escritorio, responde mirando a cámara. Corte rápido. | Persona 1: "¿Llego a configurar todo si arranco ahora? Sí. Te lleva un día como mucho. Pero arrancá por Pago Nube y Checkout Acelerado, que son los que más impactan en conversión." | Soporte |
+| 3 | Persona 2 — área de Marketing. Mismo estilo: respuesta directa, corte rápido. | Persona 2: "¿Cuánto debería invertir en pauta? Nosotros vemos que con $X podés arrancar una campaña de remarketing que te rinde. No hace falta un presupuesto enorme." | Marketing |
+| 4 | Persona 3 — área de Producto. | Persona 3: "¿Marketing Nube funciona de verdad? Los números: las tiendas que lo usan recuperan X% de carritos. Son ventas que se iban y volvieron solas." | Producto |
+| 5 | Persona 4 — área de Logística. | Persona 4: "¿Ofrezco envío gratis? Si podés absorberlo con monto mínimo, sí. Las tiendas con envío gratis convierten mucho más." | Logística |
+| 6 | Persona 5 — área de Datos. | Persona 5: "¿Qué categoría va a explotar este Hot Sale? Según lo que vemos en la data: [categoría]. Pero ojo, siempre hay sorpresas." | Datos |
+| 7 | Placa final. | — | ¿Tenés otra duda? Dejala en los comentarios. |
 
-Es otra variación del mismo recurso: equipo + metáfora futbolera + productos como "jugadores". Si ya tenemos la cámara oculta (guion 3), este EGC se siente redundante y refuerza la percepción de que todo el contenido es un sketch.
-
-**Alternativa propuesta: "Las preguntas que más nos hacen antes de cada Hot Sale"**
-
-| Escena | Visual | Audio / Texto |
-|--------|--------|---------------|
-| 1 | Varias personas del equipo, cada una responde una pregunta diferente. Formato rápido, cortes ágiles. Cámara de celular, sin producción pesada. | **Sobreimpreso:** "Le pregunté a 5 personas de Tiendanube la duda que más les consultan antes de Hot Sale" |
-| 2 | Persona 1 (Soporte) | "¿Llego a configurar todo si arranco ahora? Sí. Te lleva un día como mucho. Pero arrancá por Pago Nube y Checkout Acelerado, que son los que más impactan en conversión." |
-| 3 | Persona 2 (Marketing) | "¿Cuánto debería invertir en pauta? Nosotros vemos que con $X podés arrancar una campaña de remarketing que te rinde. No hace falta un presupuesto enorme." |
-| 4 | Persona 3 (Producto) | "¿Marketing Nube funciona de verdad? Los números: las tiendas que lo usan recuperan X% de carritos. Son ventas que se iban y volvieron solas." |
-| 5 | Persona 4 (Logística) | "¿Ofrezco envío gratis? Si podés absorberlo con monto mínimo, sí. Las tiendas con envío gratis convierten mucho más." |
-| 6 | Persona 5 (Datos) | "¿Qué categoría va a explotar este Hot Sale? Según lo que vemos en la data: [categoría]. Pero ojo, siempre hay sorpresas." |
-
-**Qué cambia:** Mismo formato EGC (equipo real, caras visibles, cámara informal), pero en lugar de un sketch, cada persona aporta desde su expertise real. El viewer se lleva 5 datos/tips concretos. El equipo se posiciona como gente que sabe, no como actores de comedia.
+**Por qué cambia:** Mismo formato EGC (equipo real, caras visibles, cámara informal), pero en lugar de un sketch futbolero, cada persona aporta desde su expertise real. El viewer se lleva 5 datos o tips concretos. El equipo se posiciona como gente que sabe, no como actores de comedia. Y el cierre invita a la interacción.
 
 ---
 
-## Resumen: principios para los guiones revisados
+## Resumen: principios aplicados en los guiones revisados
 
 | Criterio | Guiones actuales | Propuesta |
 |----------|-----------------|-----------|
@@ -215,7 +162,7 @@ Los guiones que hoy están 100% en humor/sketch se pueden mover a "identificaci�
 
 ## Guiones que están bien como están
 
-Para ser justos, no todos los guiones necesitan revisión. Estos conceptos de la estrategia original están bien alineados con el tono buscado:
+No todos los guiones necesitan revisión. Estos conceptos de la estrategia original están bien alineados con el tono buscado:
 
 - **Tutoriales/Shorts reutilizados de YouTube** (Pago Nube, Chat Nube, Panel estadísticas, etc.): son educativos por naturaleza.
 - **KOL educativo sobre pauta publicitaria**: si el KOL tiene credibilidad, aporta autoridad.
