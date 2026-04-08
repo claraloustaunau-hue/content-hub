@@ -1,0 +1,60 @@
+[
+  {
+    "date": "2020-03-15",
+    "display_date": "15 Mar 2020",
+    "title": "Inicio del proyecto",
+    "description": "Se aprobó el presupuesto y se formó el equipo."
+  },
+  {
+    "date": "2020-07-01",
+    "display_date": "Jul 2020",
+    "title": "Primer prototipo",
+    "description": "Entrega del MVP al cliente."
+  },
+  {
+    "date": "2021-01-10",
+    "display_date": "10 Ene 2021",
+    "title": "Lanzamiento beta",
+    "description": "Apertura a usuarios piloto."
+  },
+  {
+    "date": "2021-06-20",
+    "display_date": "20 Jun 2021",
+    "title": "Integración con API externa"
+  },
+  {
+    "date": "2022-02-14",
+    "display_date": "14 Feb 2022",
+    "title": "Release v2.0",
+    "description": "Rediseño completo de la interfaz."
+  },
+  {
+    "date": "2022-09-01",
+    "display_date": "Sep 2022",
+    "title": "Expansión regional",
+    "description": "Disponible en 5 nuevos países."
+  },
+  {
+    "date": "2023-03-30",
+    "display_date": "30 Mar 2023",
+    "title": "Certificación ISO",
+    "description": "Se obtuvo la certificación ISO 27001."
+  },
+  {
+    "date": "2023-11-15",
+    "display_date": "15 Nov 2023",
+    "title": "1 millón de usuarios"
+  },
+  {
+    "date": "2024-05-01",
+    "display_date": "May 2024",
+    "title": "Migración a la nube",
+    "description": "Infraestructura 100% cloud-native."
+  },
+  {
+    "date": "2024-12-01",
+    "display_date": "Dic 2024",
+    "title": "Release v3.0",
+    "description": "Integración de IA generativa."
+  }
+]

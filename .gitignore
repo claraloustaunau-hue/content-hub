@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# Output files (keep example but not generated outputs)
+timeline_output.pptx
+test_output*.pptx
+demo.pptx
