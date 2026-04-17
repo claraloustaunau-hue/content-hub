@@ -126,82 +126,69 @@ Sentido del tripwire: si el problema del Q1 (público no calificado) era targeti
 
 **Consolidado canal Q1:** Views totales 7.227.018 · Views orgánicas 278.644 · Suscriptores netos 2.501.
 
-### 2.3 Key Results trimestrales
+### 2.3 Key Results trimestrales — 6 OKRs oficiales
+
+El set oficial de OKRs de YouTube Q2 está compuesto por **6 métricas**: 3 de salud general del canal y 3 específicas por formato (una de Shorts, dos de Longs). El resto de métricas por formato se siguen trackeando mensualmente como métricas de diagnóstico (ver sección 2.4), pero no son OKRs.
 
 #### Canal (salud general)
 
 | KR | Q1 real | **Meta Q2** | Δ |
 |---|---:|---:|---:|
-| KR A. Visualizaciones totales (S+L+Li) | 7.227.018 | **9.000.000** | **+25%** |
-| KR B. Visualizaciones orgánicas (S+L+Li) | 278.644 | **418.000** | **+50%** |
-| KR C. Suscriptores netos del canal | 2.501 | **3.000** | **+20%** |
+| **KR 1.** Visualizaciones totales (S+L+Li) | 7.227.018 | **9.000.000** | **+25%** |
+| **KR 2.** Visualizaciones orgánicas (S+L+Li) | 278.644 | **418.000** | **+50%** |
+| **KR 3.** Suscriptores netos del canal | 2.501 | **3.000** | **+20%** |
 
-#### Shorts (awareness y adquisición rápida)
+#### Por formato
 
-| KR | Q1 real | **Meta Q2** | Δ |
-|---|---:|---:|---:|
-| Visualizaciones totales | 4.116.571 | **5.300.000** | **+29%** |
-| Visualizaciones orgánicas | 108.962 | **210.000** | **+93%** |
-| Se quedaron viendo (ponderado Q) | 34,4% | **35,0%** | **+0,6 pp** |
-| % Medio Visto (ponderado Q) | 70,5% | **72%** | **+1,5 pp** |
+| KR | Formato | Q1 real | **Meta Q2** | Δ |
+|---|---|---:|---:|---:|
+| **KR 4.** Se quedaron viendo (ponderado Q) | Shorts | 34,4% | **35,0%** | **+0,6 pp** |
+| **KR 5.** CTR (ponderado Q) | Longs | 5,79% | **6,0%** | **+0,21 pp** |
+| **KR 6.** % Medio Visto / Retención (ponderado Q) | Longs | 47,1% | **50%** | **+2,9 pp** |
 
-#### Longs (autoridad y educación)
+#### Targets mensuales de los 6 OKRs
 
-| KR | Q1 real | **Meta Q2** | Δ |
-|---|---:|---:|---:|
-| Visualizaciones totales | 3.087.477 | **3.700.000** | **+20%** |
-| Visualizaciones orgánicas | 146.712 | **175.000** | **+19%** |
-| Impresiones | 997.207 | **1.280.000** | **+28%** |
-| CTR (ponderado Q) | 5,79% | **6,0%** | **+0,21 pp** |
-| % Medio Visto (ponderado Q) | 47,1% | **50%** | **+2,9 pp** |
-
-#### Lives (comunidad y resolución en tiempo real)
-
-| KR | Q1 real | **Meta Q2** | Δ |
-|---|---:|---:|---:|
-| Visualizaciones (Vivo + VOD) | 22.970 | **33.000** | **+44%** |
-| Pico promedio de espectadores | 304,5 | **325** | **+7%** |
-| Duración media de visualización | 16:54 | **17:30** | **+4%** |
-
-### 2.4 Targets mensuales
-
-**Shorts**
-
-| Variable | Mar 26 | Abril | Mayo | Junio |
+| KR | Mar 26 (base) | **Abril** | **Mayo** | **Junio** |
 |---|---:|---:|---:|---:|
-| Views | 1.789.337 | **1.600.000** | **1.800.000** | **1.900.000** |
-| Views orgánicas | 66.364 | **60.000** | **70.000** | **80.000** |
-| Se quedaron viendo | 31,0% | **33%** | **35%** | **37%** |
-| % Medio Visto | 72,4% | **71%** | **72%** | **73%** |
-
-**Longs**
-
-| Variable | Mar 26 | Abril | Mayo | Junio |
-|---|---:|---:|---:|---:|
-| Views | 1.092.687 | **1.100.000** | **1.300.000** | **1.300.000** |
-| Views orgánicas | 48.570 | **55.000** | **60.000** | **60.000** |
-| Impresiones | 390.815 | **400.000** | **450.000** | **430.000** |
-| CTR | 5,0% | **5,5%** | **6,0%** | **6,5%** |
-| % Medio Visto | 39,9% | **45%** | **50%** | **55%** |
-
-**Lives**
-
-| Variable | Mar 26 | Abril | Mayo | Junio |
-|---|---:|---:|---:|---:|
-| Views (Vivo + VOD) | 9.719 | **10.000** | **12.000** | **11.000** |
-| Pico promedio espectadores | 239,5 | **300** | **350** | **320** |
-| Duración media | 14:39 | **16:30** | **18:00** | **18:00** |
-
-**Canal (consolidado)**
-
-| Variable | Abril | Mayo | Junio |
-|---|---:|---:|---:|
-| Suscriptores canal | **900** | **1.050** | **1.050** |
+| KR 1. Views totales canal | 2.891.743 | **2.710.000** | **3.112.000** | **3.211.000** |
+| KR 2. Views orgánicas canal | 163.504 | **125.000** | **142.000** | **151.000** |
+| KR 3. Suscriptores canal | 819 | **900** | **1.050** | **1.050** |
+| KR 4. Se quedaron viendo (Shorts) | 31,0% | **33%** | **35%** | **37%** |
+| KR 5. CTR (Longs) | 5,0% | **5,5%** | **6,0%** | **6,5%** |
+| KR 6. Retención (Longs) | 39,9% | **45%** | **50%** | **55%** |
 
 Cadencia por formato:
 - **Longs** — Abril: checklist Hot Sale + tips de diseño (posicionamiento previo). Mayo: piezas peak de autoridad Hot Sale. Junio: análisis post-evento ("Qué nos dejó el Hot Sale 2026") + contenido mundialista, con CTR peak por fuerza de títulos/miniaturas.
 - **Lives** — Mayor frecuencia en Abril/Mayo junto a Lifecycle (leads y merchants). Mayo peak por Entrenamiento Nube en colaboración con CANVA (TBC). Junio sostenido con mundial + entrenamiento (TBC).
 - **Shorts** — Volumen creciente a lo largo del Q, con el salto más fuerte de *Se quedaron viendo* en Junio una vez que el ritmo de producción de Q2 está rodado.
+
+### 2.4 Métricas de tracker (diagnóstico mensual, no son OKRs)
+
+Las siguientes métricas se siguen trackeando en el Master Tracker mensual como apoyo al análisis y lectura contextual, pero no son Key Results del Q. Sirven para diagnosticar desvíos en los KRs oficiales y tomar decisiones operativas (qué ajustar en miniaturas, qué formatos priorizar, etc.).
+
+**Shorts**
+
+| Variable | Mar 26 | Abril | Mayo | Junio | Q2 |
+|---|---:|---:|---:|---:|---:|
+| Views Shorts | 1.789.337 | 1.600.000 | 1.800.000 | 1.900.000 | 5.300.000 |
+| Views orgánicas Shorts | 66.364 | 60.000 | 70.000 | 80.000 | 210.000 |
+| % Medio Visto Shorts | 72,4% | 71% | 72% | 73% | — |
+
+**Longs**
+
+| Variable | Mar 26 | Abril | Mayo | Junio | Q2 |
+|---|---:|---:|---:|---:|---:|
+| Views Longs | 1.092.687 | 1.100.000 | 1.300.000 | 1.300.000 | 3.700.000 |
+| Views orgánicas Longs | 48.570 | 55.000 | 60.000 | 60.000 | 175.000 |
+| Impresiones Longs | 390.815 | 400.000 | 450.000 | 430.000 | 1.280.000 |
+
+**Lives**
+
+| Variable | Mar 26 | Abril | Mayo | Junio | Q2 |
+|---|---:|---:|---:|---:|---:|
+| Views Lives (Vivo + VOD) | 9.719 | 10.000 | 12.000 | 11.000 | 33.000 |
+| Pico promedio espectadores | 239,5 | 300 | 350 | 320 | 325 prom |
+| Duración media visualización | 14:39 | 16:30 | 18:00 | 18:00 | 17:30 pond |
 
 ### 2.5 Racional del cambio de medición
 
@@ -227,9 +214,37 @@ Cadencia por formato:
 - Alinea medición con algoritmo: cada KPI responde a la lógica real con la que YouTube distribuye ese tipo de contenido.
 - Facilita comparar contra benchmarks de industria (que también están separados por formato).
 
+### Por qué estos 6 OKRs y no más
+
+El framework nuevo por formato habilita una lectura más precisa, pero eso no significa que todas las métricas deban ser OKRs. Los OKRs son **compromisos estratégicos**: pocos, accionables, y que capturen lo esencial del Q. El resto de las métricas siguen viviendo como tracking mensual de diagnóstico. Por eso consolidamos en 6 OKRs con esta lógica:
+
+**Los 3 del canal (KR 1-3): visión consolidada de salud.**
+- **Views totales** y **Views orgánicas** dicen, en conjunto, si el canal crece y si ese crecimiento es sano (menos dependencia de pauta).
+- **Suscriptores** es el proxy más directo de fidelización profunda a nivel canal, independiente del formato que los trajo.
+
+**Los 3 por formato (KR 4-6): un KPI signature de Shorts + dos de Longs.**
+
+- **KR 4 — Se quedaron viendo (Shorts):** es la métrica definitoria del formato. Mide si el hook (primeros 3 segundos) logra frenar el scroll pasivo del usuario. Es además leading indicator de distribución — si sube, el algoritmo de Shorts amplifica. Los otros candidatos quedaron afuera por redundantes: *% Medio Visto* tiende a ser naturalmente alto en Shorts por la duración del formato, y *views orgánicas de Shorts* ya están capturadas en el consolidado del canal.
+
+- **KR 5 — CTR (Longs):** es la métrica signature de Longs. Mide si la combinación Miniatura + Título genera la intención de click. Es la más accionable que tiene el equipo (iteración sobre thumbnails en horas, no semanas) y es leading indicator directo de views (CTR × Impresiones = Views). Las *impresiones* como métrica suelta no las incluimos porque son más consecuencia (YouTube te muestra cuando confía en el paquete) que variable accionable.
+
+- **KR 6 — Retención en Longs:** es la métrica que valida que Longs están cumpliendo su rol estratégico (autoridad y educación). Incluirla a nivel OKR protege contra un escenario específico y peligroso: **CTR alto + retención baja = autoridad fake** (clickbait que no sostiene promesa). Sin este KR ese riesgo queda invisible en la foto trimestral.
+
+**Por qué la retención NO se mide por formato en los dos lados.**
+- En **Shorts**, la retención entendida como "llegar al final" está prácticamente capturada por *Se quedaron viendo* + la propia duración corta del formato hace que el % Medio Visto sea casi siempre alto (70%+). Tener un KR dedicado ahí no aporta información nueva.
+- En **Longs** es distinto: la retención es el único indicador de que la promesa del título+miniatura se cumple una vez que el usuario entró al video. Por eso ahí sí amerita KR dedicado.
+
+**Qué queda como tracking pero NO es OKR** (sigue en Master Tracker mensual):
+- Views Shorts / Views Longs (ya agregan en Views totales canal).
+- Views orgánicas por formato (ya agregan en Views orgánicas canal).
+- Impresiones Longs (leading de CTR pero menos accionable).
+- % Medio Visto Shorts (redundante con *Se quedaron viendo*).
+- Todas las métricas de Lives (Vivo+VOD, Pico promedio, Duración media). No entran como OKR en Q2 porque Lives es un formato en escala menor y más estacional; se miden con foco operativo. Si el volumen o la regularidad de Lives crecen significativamente en Q3, reevaluamos incluir al menos uno como OKR.
+
 **Qué queda pendiente para futuras iteraciones.**
 - **New vs Evergreen:** implementar la comparativa mensual de % de views de contenido producido este mes vs catálogo histórico, para medir el ROI real de la producción actual frente al SEO ya ganado por la marca.
 - **VOD desagregado de Lives:** cuando tengamos el split entre Vivo y VOD post-vivo como columnas separadas, podemos sumar un KPI específico de VOD (sirve para medir el valor residual del contenido en vivo como pieza de biblioteca).
+- **Promoción a OKR de métricas de Lives** si el formato escala en volumen o frecuencia durante Q3.
 
 ---
 
@@ -251,12 +266,15 @@ Tripwire en Abril: si ER < 2,0% o retención < 24%, Mayo se ejecuta con -15% de 
 
 ### YouTube Q2 — "Medir cada formato por lo que importa"
 
-**Canal:**
-- Views totales: 7,23M → **9M (+25%)**
-- Views orgánicas: 279K → **418K (+50%)**
-- Suscriptores canal: 2.501 → **3.000 (+20%)**
+**6 OKRs oficiales:**
 
-**Por formato:**
-- **Shorts** — *Se quedaron viendo* 34,4% → 35%, orgánicas +93%, totales +29%.
-- **Longs** — CTR 5,79% → 6,0%, impresiones +28%, retención 47,1% → 50%.
-- **Lives** — Vivo+VOD +44%, pico promedio 304 → 325.
+| # | KR | Q1 real | Meta Q2 |
+|---|---|---:|---:|
+| 1 | Views totales canal | 7,23M | **9M (+25%)** |
+| 2 | Views orgánicas canal | 279K | **418K (+50%)** |
+| 3 | Suscriptores netos canal | 2.501 | **3.000 (+20%)** |
+| 4 | Se quedaron viendo (Shorts) | 34,4% | **35,0%** |
+| 5 | CTR (Longs) | 5,79% | **6,0%** |
+| 6 | Retención (Longs) | 47,1% | **50%** |
+
+El resto de métricas (views por formato, impresiones, pico de espectadores, etc.) se siguen trackeando mensualmente como **diagnóstico** pero no son KRs.
