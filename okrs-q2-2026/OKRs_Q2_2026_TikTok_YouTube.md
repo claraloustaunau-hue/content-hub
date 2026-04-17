@@ -226,6 +226,10 @@ Las siguientes métricas se siguen trackeando en el Master Tracker mensual como 
 - Alinea medición con algoritmo: cada KPI responde a la lógica real con la que YouTube distribuye ese tipo de contenido.
 - Facilita comparar contra benchmarks de industria (que también están separados por formato).
 
+### Contexto adicional para leer el crecimiento Q2 (pauta México)
+
+Un factor clave para interpretar el salto de views totales de Q2 vs Q1: **durante Q1 México no estuvo implementando pauta en YouTube**. En Q2 se suma al mix regional, por lo que se espera que el aumento de Views totales canal (y en cascada, de Views orgánicas e Impresiones) sea **expresivo** respecto del Q1, y parte del lift no venga solo de optimización de contenido sino de la expansión geográfica del spend. Esto refuerza la meta de **+38% vs Q1 / +15% vs inercial Marzo** para KR 1 como alcanzable: sin México en Q1, el baseline contra el que medimos está "deflactado" vs lo que va a ser la operación normal de Q2 en adelante. Las métricas de calidad (Se quedaron viendo, CTR, Retención) no se ven afectadas por este factor porque no dependen del volumen de pauta sino del contenido.
+
 ### Por qué estos 6 OKRs y no más
 
 El framework nuevo por formato habilita una lectura más precisa, pero eso no significa que todas las métricas deban ser OKRs. Los OKRs son **compromisos estratégicos**: pocos, accionables, y que capturen lo esencial del Q. El resto de las métricas siguen viviendo como tracking mensual de diagnóstico. Por eso consolidamos en 6 OKRs con esta lógica:
