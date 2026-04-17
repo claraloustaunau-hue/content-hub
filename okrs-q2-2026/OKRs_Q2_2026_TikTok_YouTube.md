@@ -194,15 +194,58 @@ Las siguientes métricas se siguen trackeando en el Master Tracker mensual como 
 | Views orgánicas Longs | 48.570 | 65.000 | 75.000 | 55.000 | 195.000 |
 | Impresiones Longs | 390.815 | 500.000 | 550.000 | 400.000 | 1.450.000 |
 
-**Lives**
+> Las métricas de Lives viven como **OKRs compartidos YouTube × Educación** en la sección 2.5.
 
-| Variable | Mar 26 | Abril | Mayo | Junio | Q2 |
+### 2.5 OKRs compartidos YouTube × Educación (Lives)
+
+Lives es un formato con dos palancas de performance que viven en equipos distintos: la **convocatoria y la calidad del vivo** dependen de Educación (promoción previa vía Lifecycle/CRM, elección de temáticas, invitados, ritmo del vivo, Q&A), mientras que la **amplificación y el volumen residual post-evento** dependen de YouTube (cortes en Shorts, VOD publicado, miniatura/título, capítulos, posicionamiento).
+
+Por eso los OKRs de Lives se estructuran como **compartidos**, con un equipo *primary* (responsable de setear target, reportar y convocar review) y un equipo *contributor* (con acciones concretas comprometidas de apoyo).
+
+#### KRs compartidos
+
+| # | KR | Primary | Contributor | Q1 real | **Meta Q2** |
+|---|---|---|---|---:|---:|
+| **KR 7.** | Pico promedio de espectadores (prom. de picos de los lives del mes, prom. Q) | Educación | YouTube | 304,5 | **325** |
+| **KR 8.** | Visualizaciones Lives (Vivo + VOD) | YouTube | Educación | 22.970 | **35.000** |
+| **KR 9.** | Duración media de visualización (ponderado Q) | Educación | YouTube | 16:54 | **17:30** |
+
+**Targets mensuales:**
+
+| Variable | Mar 26 (base) | Abril | Mayo | Junio | Q2 |
 |---|---:|---:|---:|---:|---:|
-| Views Lives (Vivo + VOD) | 9.719 | 12.000 | 14.000 | 9.000 | 35.000 |
-| Pico promedio espectadores | 239,5 | 340 | 360 | 275 | 325 prom |
-| Duración media visualización | 14:39 | 17:30 | 18:00 | 17:00 | 17:30 pond |
+| KR 7. Pico promedio espectadores | 239,5 | **340** | **360** | **275** | **325 prom** |
+| KR 8. Views Lives (Vivo + VOD) | 9.719 | **12.000** | **14.000** | **9.000** | **35.000** |
+| KR 9. Duración media | 14:39 | **17:30** | **18:00** | **17:00** | **17:30 pond** |
 
-### 2.5 Racional del cambio de medición
+#### Acciones comprometidas por equipo
+
+**Educación (primary KR 7 y 9, contributor KR 8):**
+- Calendarización de Lives con al menos 2 semanas de promoción previa via Lifecycle/CRM.
+- Formato de los Lives diseñado pensando en cortes cortables para Shorts (momentos memorables, bloques claros, frases "quotables") → facilita que YouTube genere Shorts derivados.
+- Q&A y storytelling con cierre claro por bloque para que la retención sostenga a lo largo del vivo.
+
+**YouTube (primary KR 8, contributor KR 7 y 9):**
+- Mínimo **2 Shorts de corte por Live** publicados dentro de **72hs post-evento**.
+- Miniatura + título de VOD optimizados (no dejar el "thumbnail automático" del live).
+- Incorporación de capítulos en el VOD y promoción en Community tab / Home del canal.
+- Push del VOD en cross-posting (TikTok si aplica, IG Reels con clip del Live).
+
+#### Ritmo de review
+
+**Review conjunto bimensual** entre leads de YouTube y Educación, con datos de los 3 KRs consolidados. Si alguna métrica va off-track, se revisan acciones comprometidas (quién dejó de entregar qué) antes de re-setear target.
+
+#### Lógica de la curva mensual
+
+- **Abril (340 pico):** arranque fuerte por promoción activa Lifecycle post-verano + pre-Hot-Sale.
+- **Mayo (360 pico):** peak del Q por Entrenamiento Nube en colaboración con CANVA (TBC) + picos pre-Hot-Sale. Mayor pauta disponible ayuda al push.
+- **Junio (275 pico):** caída consistente con el resto del canal por fin de ventana HS + Mundial (compiten muchos eventos por atención). Duración se mantiene alta porque la audiencia que queda es más calificada.
+
+#### Nota metodológica
+
+El baseline Q1 de pico promedio (304,5) está distorsionado por Enero 26 (327,2, con un solo Live muy concurrido) y Febrero 26 (346,67). Marzo 26 cayó a 239,5. El target de 325 prom. Q sostiene el nivel histórico pero requiere trabajo sostenido de convocatoria, especialmente porque la frecuencia de Lives es creciente (más lives mensuales tiende a bajar el pico promedio si no se sostiene la promoción de cada uno).
+
+### 2.6 Racional del cambio de medición
 
 **Qué veníamos haciendo.** Hasta Q1 2026 medíamos todos los formatos de YouTube juntos en una sola tabla agregada. Eso generaba tres problemas concretos:
 
@@ -255,7 +298,8 @@ El framework nuevo por formato habilita una lectura más precisa, pero eso no si
 - Views orgánicas por formato (ya agregan en Views orgánicas canal).
 - Impresiones Longs (leading de CTR pero menos accionable).
 - % Medio Visto Shorts (redundante con *Se quedaron viendo*).
-- Todas las métricas de Lives (Vivo+VOD, Pico promedio, Duración media). No entran como OKR en Q2 porque Lives es un formato en escala menor y más estacional; se miden con foco operativo. Si el volumen o la regularidad de Lives crecen significativamente en Q3, reevaluamos incluir al menos uno como OKR.
+
+**Lives: OKRs compartidos con Educación, no se miden como OKR propio de YouTube.** El detalle está en la sección 2.5. La lógica es que Lives tiene palancas en dos equipos (convocatoria → Educación; distribución post-evento → YouTube), y ningún equipo controla el resultado solo; por eso el modelo shared con primary/contributor.
 
 **Qué queda pendiente para futuras iteraciones.**
 - **New vs Evergreen:** implementar la comparativa mensual de % de views de contenido producido este mes vs catálogo histórico, para medir el ROI real de la producción actual frente al SEO ya ganado por la marca.
@@ -282,7 +326,7 @@ Tripwire en Abril: si ER < 2,0% o retención < 24%, Mayo se ejecuta con -15% de 
 
 ### YouTube Q2 — "Medir cada formato por lo que importa"
 
-**6 OKRs oficiales:**
+**6 OKRs oficiales de YouTube:**
 
 | # | KR | Q1 real | Meta Q2 |
 |---|---|---:|---:|
@@ -293,7 +337,15 @@ Tripwire en Abril: si ER < 2,0% o retención < 24%, Mayo se ejecuta con -15% de 
 | 5 | CTR (Longs) | 5,79% | **6,0%** |
 | 6 | Retención (Longs) | 48,4% | **50%** |
 
-El resto de métricas (views por formato, impresiones, pico de espectadores, etc.) se siguen trackeando mensualmente como **diagnóstico** pero no son KRs.
+**3 OKRs compartidos YouTube × Educación (Lives):**
+
+| # | KR | Primary | Contributor | Q1 real | Meta Q2 |
+|---|---|---|---|---:|---:|
+| 7 | Pico promedio de espectadores | Educación | YouTube | 304,5 | **325** |
+| 8 | Views Lives (Vivo + VOD) | YouTube | Educación | 22.970 | **35.000** |
+| 9 | Duración media de visualización | Educación | YouTube | 16:54 | **17:30** |
+
+El resto de métricas (views por formato, impresiones, % Medio Visto Shorts, etc.) se siguen trackeando mensualmente como **diagnóstico** pero no son KRs.
 
 ---
 
