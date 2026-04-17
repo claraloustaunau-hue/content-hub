@@ -150,17 +150,21 @@ El set oficial de OKRs de YouTube Q2 está compuesto por **6 métricas**: 3 de s
 
 | KR | Mar 26 (base) | **Abril** | **Mayo** | **Junio** |
 |---|---:|---:|---:|---:|
-| KR 1. Views totales canal | 2.891.743 | **2.710.000** | **3.112.000** | **3.211.000** |
-| KR 2. Views orgánicas canal | 163.504 | **125.000** | **142.000** | **151.000** |
-| KR 3. Suscriptores canal | 819 | **900** | **1.050** | **1.050** |
+| KR 1. Views totales canal | 2.891.743 | **3.312.000** | **3.413.000** | **2.308.000** |
+| KR 2. Views orgánicas canal | 163.504 | **142.000** | **153.000** | **123.000** |
+| KR 3. Suscriptores canal | 819 | **1.050** | **1.100** | **850** |
 | KR 4. Se quedaron viendo (Shorts) | 31,0% | **33%** | **35%** | **37%** |
 | KR 5. CTR (Longs) | 5,0% | **5,5%** | **6,0%** | **6,5%** |
 | KR 6. Retención (Longs) | 39,9% | **45%** | **50%** | **55%** |
 
+**Lógica de la curva:**
+- **Volumen (KR 1, 2, 3):** peak en Abril/Mayo por mayor disponibilidad de pauta (Hot Sale), caída en Junio por recorte de spend post-HS + Mundial. Mismo racional que TikTok.
+- **Calidad (KR 4, 5, 6):** mejora sostenida mes a mes independientemente del volumen. Estas métricas dependen de iteración sobre contenido (thumbnails, hooks, narrativa), no de pauta. Además, con menos pauta en Junio, la audiencia que queda es más calificada → Se quedaron viendo, CTR y retención llegan a su peak natural ahí.
+
 Cadencia por formato:
-- **Longs** — Abril: checklist Hot Sale + tips de diseño (posicionamiento previo). Mayo: piezas peak de autoridad Hot Sale. Junio: análisis post-evento ("Qué nos dejó el Hot Sale 2026") + contenido mundialista, con CTR peak por fuerza de títulos/miniaturas.
-- **Lives** — Mayor frecuencia en Abril/Mayo junto a Lifecycle (leads y merchants). Mayo peak por Entrenamiento Nube en colaboración con CANVA (TBC). Junio sostenido con mundial + entrenamiento (TBC).
-- **Shorts** — Volumen creciente a lo largo del Q, con el salto más fuerte de *Se quedaron viendo* en Junio una vez que el ritmo de producción de Q2 está rodado.
+- **Longs** — Abril: checklist Hot Sale + tips de diseño (peak de views e impresiones por push de pauta pre-HS). Mayo: piezas peak de autoridad Hot Sale, con la mayor distribución del Q. Junio: análisis post-evento ("Qué nos dejó el Hot Sale 2026") + contenido mundialista, con menos volumen de views pero CTR y retención peak (el packaging del contenido post-HS funciona muy bien y la audiencia residual es más cualificada).
+- **Shorts** — Volumen peak en Mayo (pauta HS corriendo a full), con caída en Junio cuando la pauta se recorta. El Se quedaron viendo sube sostenido Q-por-Q, con salto más fuerte en Junio una vez que el ritmo de producción está rodado y con audiencia más orgánica.
+- **Lives** — Peak Abril/Mayo por Hot Sale + Entrenamiento Nube en colaboración con CANVA (TBC). Junio con menos volumen pero se sostiene con mundial + entrenamiento (TBC).
 
 ### 2.4 Métricas de tracker (diagnóstico mensual, no son OKRs)
 
@@ -170,25 +174,25 @@ Las siguientes métricas se siguen trackeando en el Master Tracker mensual como 
 
 | Variable | Mar 26 | Abril | Mayo | Junio | Q2 |
 |---|---:|---:|---:|---:|---:|
-| Views Shorts | 1.789.337 | 1.600.000 | 1.800.000 | 1.900.000 | 5.300.000 |
-| Views orgánicas Shorts | 66.364 | 60.000 | 70.000 | 80.000 | 210.000 |
+| Views Shorts | 1.789.337 | 1.900.000 | 2.000.000 | 1.400.000 | 5.300.000 |
+| Views orgánicas Shorts | 66.364 | 70.000 | 75.000 | 65.000 | 210.000 |
 | % Medio Visto Shorts | 72,4% | 71% | 72% | 73% | — |
 
 **Longs**
 
 | Variable | Mar 26 | Abril | Mayo | Junio | Q2 |
 |---|---:|---:|---:|---:|---:|
-| Views Longs | 1.092.687 | 1.100.000 | 1.300.000 | 1.300.000 | 3.700.000 |
-| Views orgánicas Longs | 48.570 | 55.000 | 60.000 | 60.000 | 175.000 |
-| Impresiones Longs | 390.815 | 400.000 | 450.000 | 430.000 | 1.280.000 |
+| Views Longs | 1.092.687 | 1.400.000 | 1.400.000 | 900.000 | 3.700.000 |
+| Views orgánicas Longs | 48.570 | 60.000 | 65.000 | 50.000 | 175.000 |
+| Impresiones Longs | 390.815 | 480.000 | 500.000 | 300.000 | 1.280.000 |
 
 **Lives**
 
 | Variable | Mar 26 | Abril | Mayo | Junio | Q2 |
 |---|---:|---:|---:|---:|---:|
-| Views Lives (Vivo + VOD) | 9.719 | 10.000 | 12.000 | 11.000 | 33.000 |
-| Pico promedio espectadores | 239,5 | 300 | 350 | 320 | 325 prom |
-| Duración media visualización | 14:39 | 16:30 | 18:00 | 18:00 | 17:30 pond |
+| Views Lives (Vivo + VOD) | 9.719 | 12.000 | 13.000 | 8.000 | 33.000 |
+| Pico promedio espectadores | 239,5 | 340 | 360 | 275 | 325 prom |
+| Duración media visualización | 14:39 | 17:30 | 18:00 | 17:00 | 17:30 pond |
 
 ### 2.5 Racional del cambio de medición
 
