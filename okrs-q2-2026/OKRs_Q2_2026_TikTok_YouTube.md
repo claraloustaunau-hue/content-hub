@@ -204,11 +204,11 @@ Por eso los OKRs de Lives se estructuran como **compartidos**, con un equipo *pr
 
 #### KRs compartidos
 
-| # | KR | Primary | Contributor | Q1 real | **Meta Q2** |
-|---|---|---|---|---:|---:|
-| **KR 7.** | Pico promedio de espectadores (prom. de picos de los lives del mes, prom. Q) | Educación | YouTube | 304,5 | **325** |
-| **KR 8.** | Visualizaciones Lives (Vivo + VOD) | YouTube | Educación | 22.970 | **35.000** |
-| **KR 9.** | Duración media de visualización (ponderado Q) | Educación | YouTube | 16:54 | **17:30** |
+| # | KR | Primary | Contributor | Q1 real | **Meta Q2** | Δ |
+|---|---|---|---|---:|---:|---:|
+| **KR 7.** | Pico promedio de espectadores (prom. de picos de los lives del mes, prom. Q) | Educación | YouTube | 304,5 | **325** | **+6,7%** |
+| **KR 8.** | Visualizaciones Lives (Vivo + VOD) | YouTube | Educación | 22.970 | **35.000** | **+52,4%** |
+| **KR 9.** | Duración media de visualización (ponderado Q) | Educación | YouTube | 16:54 | **17:30** | **+3,6%** |
 
 **Targets mensuales:**
 
@@ -339,11 +339,11 @@ Tripwire en Abril: si ER < 2,0% o retención < 24%, Mayo se ejecuta con -15% de 
 
 **3 OKRs compartidos YouTube × Educación (Lives):**
 
-| # | KR | Primary | Contributor | Q1 real | Meta Q2 |
-|---|---|---|---|---:|---:|
-| 7 | Pico promedio de espectadores | Educación | YouTube | 304,5 | **325** |
-| 8 | Views Lives (Vivo + VOD) | YouTube | Educación | 22.970 | **35.000** |
-| 9 | Duración media de visualización | Educación | YouTube | 16:54 | **17:30** |
+| # | KR | Primary | Contributor | Q1 real | Meta Q2 | Δ |
+|---|---|---|---|---:|---:|---:|
+| 7 | Pico promedio de espectadores | Educación | YouTube | 304,5 | **325** | **+6,7%** |
+| 8 | Views Lives (Vivo + VOD) | YouTube | Educación | 22.970 | **35.000** | **+52,4%** |
+| 9 | Duración media de visualización | Educación | YouTube | 16:54 | **17:30** | **+3,6%** |
 
 El resto de métricas (views por formato, impresiones, % Medio Visto Shorts, etc.) se siguen trackeando mensualmente como **diagnóstico** pero no son KRs.
 
