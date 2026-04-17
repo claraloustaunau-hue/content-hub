@@ -1,39 +1,39 @@
 # OKRs Q2 2026 — TikTok & YouTube
 
-> Propuesta construida sobre los datos de:
-> - `TikTok mensual` (Oct 25 – Mar 26)
-> - `[YT] Master Tracker Performance — Short / Long / LIV Mensual` (Dic 24 – Mar 26)
-> - `[YT] Nuevo Framework de Medición de Performance` (22 mar 2026)
-> - `Estrategia de contenidos Content Hub Q2 2026`
-> - Directrices del brief: **reducir views TikTok vs Q1, mejorar ER y retención mes a mes; en YouTube pasar a medición por formato**.
+> Versión actualizada con las respuestas a las dudas de validación (v2).
 >
-> Todos los baselines son sumas/promedios ponderados sobre los datos reales adjuntos. Al final del doc hay un bloque `Supuestos y dudas abiertas` con los puntos que conviene validar antes de publicar.
+> Fuentes de datos: `TikTok mensual`, `[YT] Master Tracker Performance — Short / Long / LIV Mensual`, `[YT] Nuevo Framework de Medición de Performance`, `Estrategia Content Hub Q2 2026`.
+>
+> Cambios clave vs v1:
+> - Corrección Enero 26 TikTok: sin pauta (Views ads = 0, Views = Views orgánicas = 22.037; 16.871 es usuarios únicos).
+> - Hot Sale concentrado fines de abril → mediados de mayo, con **mayor presupuesto de pauta** en esa ventana: eso rebalancea el stepping mensual de views y de % pauta.
+> - Se plantean **dos escenarios** para TikTok: reducción -11% y -20% vs Q1.
+> - Suscriptores YouTube: KR consolidado del canal, sin breakdown por formato.
+> - Lives YouTube: KPI unificado "Visualizaciones (Vivo + VOD)".
 
 ---
 
 ## 1. Baseline real Q1 2026
 
-### 1.1 TikTok — Q1 2026
+### 1.1 TikTok — Q1 2026 (corregido)
 
 | Métrica | Enero 26 | Febrero 26 | Marzo 26 | **Q1 total / ponderado** |
 |---|---:|---:|---:|---:|
 | Views totales | 22.037 | 5.997.508 | 9.129.950 | **15.149.495** |
-| Views ads | 22.037 | 5.762.108 | 4.261.272 | **10.045.417** (66% del total) |
-| Views (-ads) | 16.871 * | 235.400 | 4.868.678 | **~5.120.949** * |
-| % pauta sobre views | 100% * | 96% | 47% | **66% ponderado** |
-| Usuarios únicos | 12.148 | 4.454.632 | 7.373.700 | 11.840.480 |
+| Views ads | **0** | 5.762.108 | 4.261.272 | **10.023.380** |
+| Views orgánicas (-ads) | **22.037** | 235.400 | 4.868.678 | **5.126.115** |
+| % pauta sobre views totales | 0% | 96% | 47% | **66% ponderado** |
+| Usuarios únicos | 16.871 | 4.454.632 | 7.373.700 | 11.845.203 |
 | Retention rate | 33,85% | 27,00% | 22,25% | **24,15% ponderado por views** |
 | ER | 5,33% | 2,30% | 1,70% | **1,94% ponderado por views** |
-| Follower growth (mes) | 92 | 1.300 | 1.688 | **3.080** |
+| Follower growth | 92 | 1.300 | 1.688 | **3.080** |
 | Profile views | 909 | 8.192 | 19.631 | 28.732 |
 
-\* Enero tiene inconsistencia: Views = Views ads = 22.037 pero la columna Views(-ads) figura en 16.871. Ver "dudas abiertas".
-
-**Lectura del Q1:** la curva confirma lo que planteás en el brief. Febrero es el peak de pauta agresiva (96% del tráfico pago) → el ER cae de 5,33% a 2,30% y, aunque la retención se mantiene decente (27%), ya arranca la bajada. En marzo, con la pauta bajando al 47% y con más volumen orgánico (4,87M views -ads), la retención cae a 22,25% y el ER a 1,7%. El volumen crece pero la calidad del público cae sostenidamente.
+**Lectura del Q1:** Enero corre 100% orgánico y logra el mejor ER (5,33%) y mejor retención (33,85%) aunque con volumen chico. Febrero y Marzo concentran el 99% de la pauta del trimestre. Febrero explota en views (6M, 96% pauta) y ya se nota la caída: ER 2,30%, retención 27%. Marzo duplica el volumen orgánico pero sigue con mucha pauta (47%) y las métricas de calidad caen aún más: ER 1,70%, retención 22,25%. La hipótesis del brief se valida: la pauta agresiva empuja views pero degrada engagement y retención.
 
 ---
 
-### 1.2 YouTube — Q1 2026 por formato (nuevo framework)
+### 1.2 YouTube — Q1 2026 por formato
 
 #### Shorts
 
@@ -41,9 +41,9 @@
 |---|---:|---:|---:|---:|
 | Visualizaciones | 1.171.846 | 1.155.388 | 1.789.337 | **4.116.571** |
 | Visualizaciones orgánicas | 24.154 | 18.444 | 66.364 | **108.962** |
-| Se quedaron viendo | 38,3% | 35,8% | 31,0% | **34,4% ponderado por views** |
+| Se quedaron viendo | 38,3% | 35,8% | 31,0% | **34,4% ponderado** |
 | % Medio Visto | 73,5% | 65,0% | 72,4% | 70,5% ponderado |
-| Suscriptores | 49 | 38 | 76 | **163** |
+| Suscriptores | 49 | 38 | 76 | 163 |
 
 #### Longs
 
@@ -54,28 +54,24 @@
 | Impresiones | 316.891 | 289.501 | 390.815 | **997.207** |
 | CTR | 6,3% | 6,3% | 5,0% | **5,79% ponderado por impresiones** |
 | % Medio Visto (retención) | 55,8% | 47,4% | 39,9% | 47,1% ponderado |
-| Suscriptores | 473 | 426 | 399 | **1.298** |
+| Suscriptores | 473 | 426 | 399 | 1.298 |
 
 #### Lives
 
 | Métrica | Enero 26 | Febrero 26 | Marzo 26 | **Q1 total / ponderado** |
 |---|---:|---:|---:|---:|
 | Visualizaciones (Vivo + VOD) | 6.434 | 6.817 | 9.719 | **22.970** |
-| Pico de espectadores | 327,2 * | 346,67 | 239,5 | **304,5 promedio** |
-| Duración media | 20:14 | 16:58 | 14:39 | **16:54 ponderado** |
-| Suscriptores | 346 | 350 | 344 | **1.040** |
-
-\* Enero 26 no trae la aclaración "solo en el mes" que sí tienen Feb y Mar — ver dudas.
+| Pico promedio de espectadores (promedio de los picos de los lives del mes) | 327,2 | 346,67 | 239,5 | **304,5 promedio mensual** |
+| Duración media | 20:14 | 16:58 | 14:39 | 16:54 ponderado |
+| Suscriptores | 346 | 350 | 344 | 1.040 |
 
 #### Consolidado canal Q1 2026
 
 | Métrica | Valor Q1 |
 |---|---:|
 | Visualizaciones totales (S+L+Li) | **7.227.018** |
-| Visualizaciones orgánicas (S+L+Li) | **278.644** * |
-| Suscriptores netos ganados (suma formatos) | **2.501** |
-
-\* Asumiendo que las views de Lives son todas orgánicas (no hay columna "orgánicas" en el tracker de Lives).
+| Visualizaciones orgánicas (S+L+Li, Lives = 100% orgánicas) | **278.644** |
+| Suscriptores netos ganados (canal) | **2.501** |
 
 ---
 
@@ -85,41 +81,66 @@
 
 > **Optimizar la pauta para atraer público calificado, reduciendo volumen de views y recuperando mes a mes el engagement y la retención perdidos durante Q1.**
 
-La tesis: menos views pero más "de las que importan". La mejora en ER y retención es paulatina porque estas métricas no se mueven rápido dentro de pauta; el driver principal va a ser el rebalanceo de segmentación de pauta + contenido más calificado (merchants, KOLs expertos, tech storytelling del Content Hub).
+Tesis de la curva mensual: el Hot Sale (fines de abril → mediados de mayo) concentra **más presupuesto de pauta**, por lo que el mayor recorte de views y el salto más grande en ER/retención caen en **Junio**, una vez que termina la ventana Hot Sale. Abril y mayo mantienen volumen alto con foco en mejor segmentación de pauta (no en bajar spend); junio consolida con pauta mucho más optimizada + contenido mundialista.
 
-### 2.2 Key Results trimestrales
+### 2.2 KRs trimestrales — **Escenario A (recorte moderado, -11%)**
 
-| KR | Q1 2026 (baseline) | **Meta Q2** | Variación |
+| KR | Q1 real | **Meta Q2** | Δ |
 |---|---:|---:|---:|
-| KR1. Views totales | 15.149.495 | **13.500.000** | **-11%** (reducción controlada) |
-| KR2. Views orgánicas (-ads) | 5.120.949 | **8.300.000** | **+62%** (menos dependencia de pauta) |
-| KR3. Retention rate (promedio ponderado Q) | 24,15% | **26,0%** | **+1,85 pp** |
-| KR4. Engagement Rate (promedio ponderado Q) | 1,94% | **2,3%** | **+0,36 pp** |
+| KR1. Views totales | 15.149.495 | **13.500.000** | **-11%** |
+| KR2. Views orgánicas (-ads) | 5.126.115 | **6.800.000** | **+33%** |
+| KR3. Retention rate (ponderado Q) | 24,15% | **25,3%** | **+1,15 pp** |
+| KR4. ER (ponderado Q) | 1,94% | **2,25%** | **+0,31 pp** |
 | KR5. Follower growth Q | 3.080 | **3.500** | **+14%** |
 
-### 2.3 Targets mensuales
+Targets mensuales:
 
-La mejora es paulatina (Abril transición, Mayo Hot Sale, Junio Mundial-consolidación). La distribución del share de pauta pasa del 66% al ~40%.
-
-| Variable | Mar 26 (base) | **Abril (meta)** | **Mayo (meta)** | **Junio (meta)** |
+| Variable | Mar 26 (base) | **Abril** | **Mayo** | **Junio** |
 |---|---:|---:|---:|---:|
-| Views totales | 9.129.950 | **5.000.000** | **4.500.000** | **4.000.000** |
-| Views (-ads) | 4.868.678 | **3.000.000** | **2.700.000** | **2.600.000** |
-| % pauta / views | 47% | ~40% | ~40% | ~35% |
-| Retención | 22,25% | **24%** | **26%** | **28%** |
-| ER | 1,7% | **2,0%** | **2,3%** | **2,7%** |
+| Views totales | 9.129.950 | **5.000.000** | **5.500.000** | **3.000.000** |
+| Views (-ads) | 4.868.678 | **2.250.000** | **2.475.000** | **2.100.000** |
+| % pauta / views | 47% | ~55% | ~55% | ~30% |
+| Retención | 22,25% | **24%** | **25%** | **28%** |
+| ER | 1,70% | **2,0%** | **2,2%** | **2,7%** |
 | Follower growth | 1.688 | **1.000** | **1.200** | **1.300** |
 
-**Lógica del stepping:**
-- **Abril**: primer mes de pauta optimizada (segmentación más fina, exclusiones más duras); views bajan fuerte pero retención ya empieza a recuperar.
-- **Mayo (Hot Sale)**: el contenido de Hot Sale suele traer picos de engagement; aprovechamos para pegar el salto de ER.
-- **Junio (Mundial)**: menos competencia por atención real → priorizamos contenido de autoridad + identificación; retención llega al 28% (cerca del nivel de Feb pero con mucho más share orgánico).
+### 2.3 KRs trimestrales — **Escenario B (recorte agresivo, -20%)**
+
+| KR | Q1 real | **Meta Q2** | Δ |
+|---|---:|---:|---:|
+| KR1. Views totales | 15.149.495 | **12.100.000** | **-20%** |
+| KR2. Views orgánicas (-ads) | 5.126.115 | **6.100.000** | **+19%** |
+| KR3. Retention rate (ponderado Q) | 24,15% | **25,3%** | **+1,15 pp** |
+| KR4. ER (ponderado Q) | 1,94% | **2,25%** | **+0,31 pp** |
+| KR5. Follower growth Q | 3.080 | **3.300** | **+7%** |
+
+Targets mensuales:
+
+| Variable | Mar 26 (base) | **Abril** | **Mayo** | **Junio** |
+|---|---:|---:|---:|---:|
+| Views totales | 9.129.950 | **4.500.000** | **5.000.000** | **2.600.000** |
+| Views (-ads) | 4.868.678 | **2.025.000** | **2.250.000** | **1.820.000** |
+| % pauta / views | 47% | ~55% | ~55% | ~30% |
+| Retención | 22,25% | **24%** | **25%** | **28%** |
+| ER | 1,70% | **2,0%** | **2,2%** | **2,7%** |
+| Follower growth | 1.688 | **950** | **1.100** | **1.250** |
+
+### 2.4 Lógica del stepping mensual (aplica a ambos escenarios)
+
+- **Abril (pre Hot Sale + arranque Hot Sale fines del mes):** primer mes con segmentación de pauta optimizada. Volumen todavía alto (pauta Hot Sale rampando) pero con piezas más calificadas (tech storytelling, UGC de merchants con data real). ER 1,7% → 2,0%, retención 22,25% → 24%.
+- **Mayo (peak Hot Sale hasta mediados, luego arranque Mundial):** pico de pauta del trimestre, por eso ER y retención **mejoran apenas +0,2 pp y +1 pp** respecto de Abril (mejora paulatina, como pediste). Es el mes donde el trade-off volumen/calidad es más claro: social proof y contenido de identificación (per Content Hub) ayudan a sostener el engagement pese al push de pauta.
+- **Junio (post Hot Sale + Mundial):** pauta baja fuerte (del ~55% al ~30% del tráfico). Acá se cosecha el ajuste: ER llega a 2,7%, retención 28%. Views totales caen al nivel más bajo del trimestre pero son las más calificadas.
+
+### 2.5 Cuándo elegir A vs B
+
+- **Escenario A (-11%)** es más alineado a un reporte de "sostener alcance" con ligera reducción controlada. Defendible externamente.
+- **Escenario B (-20%)** implementa una reducción más fuerte y acelera el aprendizaje sobre cuánta pauta realmente suma ingresos vs vanity. Pagamos algo más en volumen pero el ratio orgánico/ads es ligeramente mejor.
+
+Ambos escenarios cierran en el **mismo ER (2,25%) y retención (25,3%)** ponderados de Q porque asumen la misma calidad de contenido y misma segmentación; lo que cambia es el volumen absoluto.
 
 ---
 
 ## 3. OKRs YouTube Q2 2026 (nuevo framework por formato)
-
-Siguiendo el nuevo framework: **cada formato tiene sus propios KRs**, y arriba ponemos un par de KRs de "salud de canal" consolidados.
 
 ### 3.1 Objetivo (O)
 
@@ -127,22 +148,23 @@ Siguiendo el nuevo framework: **cada formato tiene sus propios KRs**, y arriba p
 
 ### 3.2 KRs de salud del canal (consolidados)
 
-| KR | Q1 2026 (baseline) | **Meta Q2** | Variación |
+| KR | Q1 real | **Meta Q2** | Δ |
 |---|---:|---:|---:|
 | KR A. Visualizaciones totales (S+L+Li) | 7.227.018 | **9.000.000** | **+25%** |
 | KR B. Visualizaciones orgánicas (S+L+Li) | 278.644 | **418.000** | **+50%** |
-| KR C. Suscriptores netos Q (S+L+Li) | 2.501 | **3.000** | **+20%** |
+| KR C. Engagement Rate (promedio ponderado canal) | [a calcular con data consolidada] | [+1 pp vs Q1] | — |
+| **KR D. Suscriptores netos del canal Q2** | **2.501** | **3.000** | **+20%** |
 
 ### 3.3 KRs por formato
 
 #### A) Shorts (objetivo: Awareness & adquisición rápida)
 
-| KR | Q1 (baseline) | **Meta Q2** | Variación |
+| KR | Q1 real | **Meta Q2** | Δ |
 |---|---:|---:|---:|
 | Visualizaciones totales | 4.116.571 | **5.300.000** | **+29%** |
 | Visualizaciones orgánicas | 108.962 | **210.000** | **+93%** |
 | Se quedaron viendo (ponderado Q) | 34,4% | **35,0%** | **+0,6 pp** |
-| Suscriptores desde Shorts | 163 | **235** | **+44%** |
+| % Medio Visto (ponderado Q) | 70,5% | **72%** | **+1,5 pp** |
 
 Targets mensuales:
 
@@ -151,17 +173,17 @@ Targets mensuales:
 | Views Shorts | 1.789.337 | **1.600.000** | **1.800.000** | **1.900.000** |
 | Views orgánicas Shorts | 66.364 | **60.000** | **70.000** | **80.000** |
 | Se quedaron viendo | 31,0% | **33%** | **35%** | **37%** |
-| Suscriptores Shorts | 76 | **70** | **80** | **85** |
+| % Medio Visto | 72,4% | **71%** | **72%** | **73%** |
 
 #### B) Longs (objetivo: Autoridad y educación)
 
-| KR | Q1 (baseline) | **Meta Q2** | Variación |
+| KR | Q1 real | **Meta Q2** | Δ |
 |---|---:|---:|---:|
 | Visualizaciones totales | 3.087.477 | **3.700.000** | **+20%** |
 | Visualizaciones orgánicas | 146.712 | **175.000** | **+19%** |
 | Impresiones | 997.207 | **1.280.000** | **+28%** |
 | CTR (ponderado Q) | 5,79% | **6,0%** | **+0,21 pp** |
-| Suscriptores desde Longs | 1.298 | **1.430** | **+10%** |
+| % Medio Visto / Retención (ponderado Q) | 47,1% | **50%** | **+2,9 pp** |
 
 Targets mensuales:
 
@@ -171,18 +193,17 @@ Targets mensuales:
 | Views orgánicas Longs | 48.570 | **55.000** | **60.000** | **60.000** |
 | Impresiones | 390.815 | **400.000** | **450.000** | **430.000** |
 | CTR | 5,0% | **5,5%** | **6,0%** | **6,5%** |
-| Suscriptores Longs | 399 | **450** | **500** | **480** |
+| % Medio Visto | 39,9% | **45%** | **50%** | **55%** |
 
-Cadencia: **Abril** = longs de checklist Hot Sale + tips de diseño (prepara la conversión de Mayo). **Mayo** = peak del formato, con piezas de autoridad del Hot Sale. **Junio** = post Hot Sale (análisis "qué nos dejó el Hot Sale 2026") + contenido mundial → el CTR llega al 6,5% por la fuerza del título/miniatura de piezas bien posicionadas.
+Cadencia: **Abril** — longs de checklist Hot Sale + tips de diseño (prepara la conversión de mayo). **Mayo** — piezas de autoridad del Hot Sale; pico de views e impresiones. **Junio** — post Hot Sale ("Qué nos dejó el Hot Sale 2026") + contenido mundialista → CTR peak porque el título/miniatura de análisis post-evento suele funcionar muy bien.
 
 #### C) Lives (objetivo: Comunidad y resolución en tiempo real)
 
-| KR | Q1 (baseline) | **Meta Q2** | Variación |
+| KR | Q1 real | **Meta Q2** | Δ |
 |---|---:|---:|---:|
 | Visualizaciones (Vivo + VOD) | 22.970 | **33.000** | **+44%** |
-| Pico de espectadores (promedio mensual) | 304,5 | **325** | **+7%** |
-| Suscriptores desde Lives | 1.040 | **1.170** | **+13%** |
-| *(Opcional)* Visualizaciones VOD post-vivo | s/d explícito | **A definir con dato desagregado** | — |
+| Pico promedio de espectadores (promedio de los picos de los lives del mes, promediado sobre los 3 meses) | 304,5 | **325** | **+7%** |
+| Duración media de visualización (ponderada) | 16:54 | **17:30** | **+4%** |
 
 Targets mensuales:
 
@@ -190,53 +211,34 @@ Targets mensuales:
 |---|---:|---:|---:|---:|
 | Views Lives (Vivo + VOD) | 9.719 | **10.000** | **12.000** | **11.000** |
 | Pico promedio espectadores | 239,5 | **300** | **350** | **320** |
-| Suscriptores Lives | 344 | **380** | **410** | **380** |
+| Duración media | 14:39 | **16:30** | **18:00** | **18:00** |
 
-Cadencia: Abril y Mayo van con mayor frecuencia de vivos para leads/merchants junto a Lifecycle (per Content Hub). Mayo pico por el Entrenamiento Nube en colaboración con CANVA (TBC). Junio se sostiene con contenido mundialista y entrenamiento (TBC).
-
----
-
-## 4. Supuestos y dudas abiertas (preguntas de validación)
-
-Antes de dejar estos números como versión final, necesito confirmar los siguientes puntos porque afectan directamente los baselines y las metas:
-
-### Sobre los datos
-
-1. **TikTok — Enero 26 inconsistencia**: en la fila figura `Views = 22.037`, `Views ads = 22.037` (100% pauta) pero `Views (-ads) = 16.871`. Matemáticamente no cierra. ¿Cuál es el valor correcto de views orgánicas de Enero? Si asumo 0 el baseline Q1 de views orgánicas pasa a 5.104.078 (casi lo mismo, ~5,1M), pero prefiero confirmarlo antes.
-
-2. **TikTok — ER Q1**: el ER que figura en la tabla es % (5,33 / 2,30 / 1,70). Lo usé como %. Confirmame si efectivamente son porcentajes o si son ratios en otra unidad (a veces ER se reporta como interacciones/view en decimales tipo 0,0194). En cualquier caso el ponderado por views me da 1,94%, que es consistente con 0,0194 ratio.
-
-3. **YouTube Lives — Pico Enero 26**: aparece `327,2` pero sin la aclaración "solo en el mes" que sí tienen Feb (346,67) y Mar (239,5). ¿Es el pico del único live del mes o un promedio acumulado? El promedio Q1 que uso es 304,5 asumiendo que es comparable a los otros dos.
-
-4. **YouTube Lives — VOD**: el brief pide medir *"visualizaciones on demand de los vivos"* como KPI separado, pero en el tracker mensual la columna "Visualizaciones" ya mezcla Vivo + VOD (así lo define el framework nuevo). ¿Tenés el dato desagregado de solo-VOD (post-vivo) o preferís que el KPI quede como "Visualizaciones Lives (Vivo + VOD)" hasta tener el split? Lo dejé marcado como opcional.
-
-5. **YouTube Longs — Febrero 26 anomalía**: "Usuarios recurrentes" = 11.570 vs 99.509 nuevos. Parece typo (probablemente 115.700 o similar). No afecta los KRs propuestos pero avisame si conviene revisarlo.
-
-### Sobre la estrategia
-
-6. **Magnitud de reducción de views TikTok**: propuse -11% Q/Q (13,5M vs 15,15M). Podríamos ir más agresivos (-20% → ~12M) si priorizamos calidad más rápido, o más conservadores (-5% → ~14,4M) si preferís no resignar tanto alcance mientras se calibra pauta. **Definí nivel de agresividad** y ajusto el stepping mensual.
-
-7. **ER TikTok — target de cierre**: el 2,7% de Junio es ambicioso viniendo del 1,7% de Marzo pero plausible si la pauta baja al 35%. ¿Te sirve como stretch o preferís un escenario más conservador (2,3% Junio)?
-
-8. **Suscriptores YouTube por formato vs canal**: ¿querés un KR consolidado "suscriptores del canal" (KR C arriba) además de los tres targets por formato, o dejar solo los tres y que la suma sea el consolidado? (Hoy están ambos y pueden ser redundantes.)
-
-9. **Distribución de formatos YouTube Q2**: la estrategia dice "PLAN DISTRIBUCIÓN Q2: SHORTS: X / LONG: X / VIVOS: X" (sin completar). ¿Mantenemos la distribución Q1 (60/24/6) o ajustamos? Impacta los absolutos mensuales por formato.
-
-10. **Mes de pico de Hot Sale**: lo asumí concentrado en Mayo (como marca el Content Hub), con los longs peak ahí también. ¿Hay algún pico previsto para fines de Abril (pre-Hot-Sale) que haya que reforzar en metas de ese mes?
+Cadencia: Abril y Mayo con mayor frecuencia de vivos para leads/merchants junto a Lifecycle (per Content Hub). Mayo peak por Entrenamiento Nube en colaboración con CANVA (TBC). Junio se sostiene con mundial + entrenamiento (TBC).
 
 ---
 
-## 5. Resumen ejecutivo (versión corta)
+## 4. Resumen ejecutivo
 
 ### TikTok Q2 — "Menos views, mejor público"
-- **-11% views totales** Q2 vs Q1 (13,5M) — aceptamos la caída como consecuencia de optimizar pauta.
-- **+62% views orgánicas** (pasar de 66% pauta a ~40%).
-- **Retención: 24,15% → 26%** (ponderado Q), con stepping mensual 24 → 26 → 28%.
-- **ER: 1,94% → 2,3%** (ponderado Q), con stepping mensual 2,0 → 2,3 → 2,7%.
+
+| KR | Q1 real | Escenario A (-11%) | Escenario B (-20%) |
+|---|---:|---:|---:|
+| Views totales | 15,15M | **13,5M** | **12,1M** |
+| Views orgánicas | 5,13M | **6,8M** (+33%) | **6,1M** (+19%) |
+| Retención Q (ponderada) | 24,15% | **25,3%** | **25,3%** |
+| ER Q (ponderado) | 1,94% | **2,25%** | **2,25%** |
+| Follower growth Q | 3.080 | **3.500** | **3.300** |
+
+Stepping mensual único (ambos escenarios): retención **24% → 25% → 28%**, ER **2,0% → 2,2% → 2,7%**.
 
 ### YouTube Q2 — "Medir cada formato por lo que importa"
-- **+25% views totales** del canal (9M vs 7,23M).
-- **+50% views orgánicas** (418K vs 279K).
-- **Shorts** priorizan *Se quedaron viendo* (34,4% → 35%) y orgánicas (+93%).
-- **Longs** priorizan *CTR* (5,79% → 6,0%) e impresiones (+28%).
-- **Lives** priorizan *pico de espectadores* (304 → 325) y volumen total Vivo+VOD (+44%).
+
+**Canal (consolidado):**
+- Views totales: 7,23M → **9M (+25%)**
+- Views orgánicas: 279K → **418K (+50%)**
+- Suscriptores del canal: 2.501 → **3.000 (+20%)**
+
+**Por formato:**
+- **Shorts:** *Se quedaron viendo* 34,4% → **35%**, views orgánicas **+93%**, views totales **+29%**.
+- **Longs:** **CTR 5,79% → 6,0%**, impresiones **+28%**, retención 47,1% → **50%**.
+- **Lives:** views Vivo+VOD **+44%**, pico promedio de espectadores **304 → 325**.
