@@ -110,7 +110,7 @@ Existen tareas que conviene automatizar y trabajos que solo las personas pueden 
 > Encontrar **el proveedor** que nadie más encontró.
 
 **Slide 4**
-> Mirar a los ojos **al cliente** que vuelve.
+> Reconocer **al cliente** que vuelve.
 
 **Slide 5**
 > Decidir **hacia dónde** va la marca.
