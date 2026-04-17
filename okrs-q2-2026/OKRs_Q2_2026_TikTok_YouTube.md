@@ -1,6 +1,6 @@
 # OKRs Q2 2026 — TikTok & YouTube
 
-> Versión final con cierre en Plan A para TikTok y framework nuevo por formato para YouTube.
+> Versión final con cierre en Plan A para TikTok (anclaje corregido vs Marzo run-rate) y framework nuevo por formato para YouTube.
 >
 > **Fuentes:** `TikTok mensual`, `[YT] Master Tracker Performance — Short / Long / LIV Mensual`, `[YT] Nuevo Framework de Medición de Performance`, `Estrategia Content Hub Q2 2026`.
 
@@ -10,9 +10,9 @@
 
 ### 1.1 Objetivo
 
-> **Optimizar la pauta para atraer público calificado, reduciendo volumen de views y recuperando mes a mes el engagement y la retención perdidos durante Q1, aprovechando el CPM estructuralmente bajo de TikTok para sostener awareness cualificado.**
+> **Moderar el crecimiento de views respecto de la trayectoria inercial de Marzo, rebalanceando el ratio pauta/orgánica para atraer público más calificado, aprovechando el CPM estructuralmente bajo de TikTok para sostener awareness sin ceder calidad.**
 
-### 1.2 Baseline Q1 2026
+### 1.2 Baseline Q1 2026 y problema de anclaje
 
 | Métrica | Enero 26 | Febrero 26 | Marzo 26 | **Q1 total / ponderado** |
 |---|---:|---:|---:|---:|
@@ -24,32 +24,34 @@
 | ER | 5,33% | 2,30% | 1,70% | **1,94% ponderado** |
 | Follower growth | 92 | 1.300 | 1.688 | **3.080** |
 
+**Aclaración importante sobre el baseline.** El total Q1 (15,15M) está distorsionado porque Enero no tuvo pauta, Febrero fue ramp-up y solo Marzo fue un mes de pauta a régimen pleno. El **baseline real del estado actual del canal es Marzo (9,1M/mes)**. Si se mantuviera esa trayectoria sin cambios, el Q2 inercial sería de ~27,3M views. Es contra ese número contra el que tiene sentido medir la "reducción por optimización de pauta", no contra el total Q1.
+
 ### 1.3 Key Results trimestrales
 
-| KR | Q1 real | **Meta Q2** | Δ |
-|---|---:|---:|---:|
-| KR1. Views totales | 15.149.495 | **13.500.000** | **-11%** |
-| KR2. Views orgánicas (-ads) | 5.126.115 | **6.800.000** | **+33%** |
-| KR3. Retention rate (ponderado Q) | 24,15% | **25,3%** | **+1,15 pp** |
-| KR4. ER (ponderado Q) | 1,94% | **2,25%** | **+0,31 pp** |
-| KR5. Follower growth Q | 3.080 | **3.500** | **+14%** |
+| KR | Q1 real | Proyección inercial (Marzo × 3) | **Meta Q2** | Δ vs Q1 | Δ vs inercial |
+|---|---:|---:|---:|---:|---:|
+| KR1. Views totales | 15.149.495 | 27.389.850 | **20.000.000** | +32% | **-27%** |
+| KR2. Views orgánicas (-ads) | 5.126.115 | 14.606.034 | **9.500.000** | +85% | -35% |
+| KR3. Retention rate (ponderado Q) | 24,15% | — | **25,3%** | +1,15 pp | — |
+| KR4. ER (ponderado Q) | 1,94% | — | **2,25%** | +0,31 pp | — |
+| KR5. Follower growth Q | 3.080 | — | **3.800** | +23% | — |
 
 ### 1.4 Targets mensuales
 
 | Variable | Mar 26 (base) | **Abril** | **Mayo** | **Junio** |
 |---|---:|---:|---:|---:|
-| Views totales | 9.129.950 | **5.000.000** | **5.500.000** | **3.000.000** |
-| Views (-ads) | 4.868.678 | **2.250.000** | **2.475.000** | **2.100.000** |
-| % pauta / views | 47% | ~55% | ~55% | ~30% |
+| Views totales | 9.129.950 | **7.000.000** | **7.500.000** | **5.500.000** |
+| Views (-ads) | 4.868.678 | **3.000.000** | **3.000.000** | **3.500.000** |
+| % pauta / views | 47% | ~57% | ~60% | ~36% |
 | Retención | 22,25% | **24%** | **25%** | **28%** |
 | ER | 1,70% | **2,0%** | **2,2%** | **2,7%** |
-| Follower growth | 1.688 | **1.000** | **1.200** | **1.300** |
+| Follower growth | 1.688 | **1.100** | **1.300** | **1.400** |
 
 ### 1.5 Lógica del stepping mensual
 
-- **Abril** (pre Hot Sale + arranque fines de mes): primer mes con segmentación de pauta optimizada. Volumen todavía alto, pero creativos más calificados (tech storytelling, UGC de merchants con data real). ER 1,7% → 2,0%, retención 22,25% → 24%.
-- **Mayo** (peak Hot Sale hasta mediados + arranque Mundial): pico de presupuesto de pauta del trimestre. ER y retención mejoran apenas (+0,2 pp y +1 pp) respecto de Abril — es mejora paulatina real, consistente con pauta alta. Social proof + contenido de identificación sostienen el engagement.
-- **Junio** (post Hot Sale + Mundial): pauta baja del ~55% al ~30% del tráfico. Se cosecha el ajuste: ER 2,7%, retención 28%. Volumen más bajo del Q pero son las views más calificadas.
+- **Abril** (pre Hot Sale + arranque a fines de mes): primer mes con segmentación de pauta optimizada. Views en 7M, en línea con el tracking actual (al día 17 ya vamos 3,4M). Creativos más calificados (tech storytelling, UGC de merchants con data real) filtran audiencia. ER 1,7% → 2,0%, retención 22,25% → 24%.
+- **Mayo** (peak Hot Sale hasta mediados + arranque Mundial): pico de presupuesto de pauta del trimestre → pico de views (7,5M). ER y retención mejoran apenas (+0,2 pp y +1 pp) respecto de Abril — mejora paulatina realista consistente con pauta alta. Social proof y contenido de identificación sostienen el engagement.
+- **Junio** (post Hot Sale + Mundial): pauta baja del ~60% al ~36% del tráfico. Views caen a 5,5M (-27% vs Mayo, reducción consistente con el fin de la ventana Hot Sale). Acá se cosecha el ajuste: ER 2,7%, retención 28%. Share orgánico salta al 64% — las views del mes son las más calificadas del Q.
 
 ### 1.6 Tripwire — mecanismo de ajuste adaptativo
 
@@ -57,26 +59,28 @@ Para ejecutar el Plan A con red de seguridad, pactamos un tripwire al cierre de 
 
 | Condición al cierre de Abril | Acción sobre Mayo |
 |---|---|
-| ER mensual < 2,0% **o** Retención mensual < 24% | Mayo se ejecuta con **-15% de presupuesto de pauta** vs plan original (migración parcial a escenario B). |
+| ER mensual < 2,0% **o** Retención mensual < 24% | Mayo se ejecuta con **-15% de presupuesto de pauta** vs plan original. |
 | ER ≥ 2,0% **y** Retención ≥ 24% | Mayo se ejecuta al **100% del plan** (green light). |
 
-**Punto de chequeo fijo:** primer día hábil de Mayo, con los datos consolidados de Abril sobre la mesa. La decisión queda pactada de antemano, sin necesidad de reunión adicional.
+**Punto de chequeo fijo:** primer día hábil de Mayo, con los datos consolidados de Abril sobre la mesa. Decisión pactada de antemano, sin reunión adicional.
 
 Sentido del tripwire: si el problema del Q1 (público no calificado) era targeting y no spend, Abril va a mostrar recuperación de ER y retención aun con pauta alta. Si no la muestra, la señal es que necesitamos recortar volumen para ganar calidad, y lo hacemos automáticamente en Mayo sin esperar al corte de Q.
 
 ### 1.7 Racional estratégico — qué cambia y por qué
 
-**El diagnóstico de Q1.** La pauta agresiva de Febrero y Marzo explotó views (de 22K a 9,1M) pero degradó sistemáticamente las métricas de calidad: ER cayó de 5,33% → 2,30% → 1,70% y retención de 33,85% → 27% → 22,25%. Además, atraer público no calificado contaminó los comentarios y el sentiment.
+**El diagnóstico de Q1.** Enero corrió 100% orgánico con el mejor ER (5,33%) y retención (33,85%) pero con volumen marginal. Febrero y Marzo concentraron el 99% de la pauta del trimestre: Febrero explotó en views (6M, 96% pauta) con ER 2,30% y retención 27%, y Marzo duplicó el volumen (9,1M) pero siguió con mucha pauta (47%) y las métricas de calidad cayeron aún más (ER 1,70%, retención 22,25%). Además, atraer público no calificado contaminó los comentarios y el sentiment.
 
-**Dónde está realmente el problema.** Comparando Febrero (96% pauta, 27% retención, 2,3% ER) vs Marzo (47% pauta, 22,25% retención, 1,7% ER), se ve que **no es el volumen de pauta el driver de la caída de calidad, sino la calidad de la segmentación**. Marzo tuvo menos share de pauta pero peor performance — probablemente por saturación de audiencias o retargeting mal calibrado.
+**Dónde está realmente el problema.** Comparando Febrero (96% pauta, 27% retención, 2,3% ER) vs Marzo (47% pauta, 22,25% retención, 1,7% ER), se ve que **el driver de la caída de calidad no fue el volumen de pauta sino la calidad de la segmentación**. Marzo tuvo menos share de pauta pero peor performance — probablemente por saturación de audiencias o retargeting mal calibrado.
+
+**Contra qué comparamos.** El total Q1 (15,15M) está distorsionado por Enero sin pauta; el baseline real hoy es Marzo (9,1M/mes) → proyección inercial Q2 ~27,3M. Nuestra meta (20M) es **-27% vs esa proyección**, lo que sí representa una moderación real del alcance.
 
 **Qué cambiamos en Q2:**
 
 1. **Segmentación de pauta más fina.** Exclusiones más duras, lookalikes más ajustados al ICP, menos retargeting amplio. El spend en sí no es el problema; sí lo es a quién llega.
 2. **Cambio en el mix de contenido** (según Content Hub Q2): el contenido de merchants pasa de 15 a **36 piezas** (+140%), se suma KOLs con enfoque experto y tech storytelling generado por agencias. Este contenido **filtra naturalmente al público**: el scroll-through desinteresado se va, se queda el potencial ICP. La calidad viene del contenido, no solo de la pauta.
-3. **Reducción controlada de views (-11%)** en lugar de recorte drástico. TikTok tiene CPMs 3-5x más baratos que Meta/YouTube para awareness comparable; resignar demasiado volumen implica dejar alcance barato arriba de la mesa, especialmente en un Q con Hot Sale y Mundial.
-4. **Rebalance del ratio orgánico/pauta.** Pasamos de 66% pauta (Q1) a ~47% pauta ponderado Q2. Views orgánicas crecen +33% (de 5,1M a 6,8M) porque el algoritmo de TikTok premia orgánicamente al contenido que la pauta ayuda a boostear *cuando retiene bien*.
-5. **Mejora paulatina y realista.** ER y retención no son métricas que se arreglen de un mes al otro con pauta alta. El stepping propuesto (mejora de +0,2-1 pp por mes) es consistente con la velocidad real a la que estas métricas responden en un canal con inversión significativa.
+3. **Rebalance del ratio orgánico/pauta.** Pasamos de 66% pauta (Q1 ponderado) a ~53% pauta (Q2 ponderado). Views orgánicas crecen **+85%** (de 5,13M a 9,5M) porque el algoritmo de TikTok premia orgánicamente al contenido que la pauta ayuda a boostear *cuando retiene bien*. Es decir: misma pauta, mejor retención, más orgánica "de regalo".
+4. **Moderación (no recorte drástico) del volumen.** TikTok tiene CPMs 3-5x más baratos que Meta/YouTube para awareness comparable; resignar demasiado volumen implica dejar alcance barato arriba de la mesa, especialmente en un Q con Hot Sale y Mundial. Por eso bajamos -27% vs trayectoria inercial y no más.
+5. **Mejora paulatina y realista del ER y retención.** No son métricas que se arreglen de un mes al otro con pauta alta. El stepping propuesto (+0,2-1 pp por mes) es consistente con la velocidad real a la que estas métricas responden en un canal con inversión significativa.
 
 **Lo que este plan NO hace:**
 - No resigna el rol de TikTok como canal de awareness masivo.
@@ -231,17 +235,18 @@ Cadencia por formato:
 
 ## 3. Resumen ejecutivo
 
-### TikTok Q2 — "Menos views, mejor público"
+### TikTok Q2 — "Menos pauta relativa, más orgánica, mejor calidad"
 
-| KR | Q1 real | **Meta Q2** |
-|---|---:|---:|
-| Views totales | 15,15M | **13,5M (-11%)** |
-| Views orgánicas | 5,13M | **6,8M (+33%)** |
-| Retención Q | 24,15% | **25,3%** |
-| ER Q | 1,94% | **2,25%** |
-| Follower growth | 3.080 | **3.500** |
+| KR | Q1 real | Inercial (Marzo × 3) | **Meta Q2** |
+|---|---:|---:|---:|
+| Views totales | 15,15M | 27,3M | **20M** (-27% vs inercial) |
+| Views orgánicas | 5,13M | 14,6M | **9,5M** (+85% vs Q1) |
+| Retención Q | 24,15% | — | **25,3%** |
+| ER Q | 1,94% | — | **2,25%** |
+| Follower growth | 3.080 | — | **3.800** |
 
-Stepping mensual: retención **24 → 25 → 28%**, ER **2,0 → 2,2 → 2,7%**.
+Targets mensuales: **7M → 7,5M → 5,5M** (views) · stepping retención **24 → 25 → 28%** · stepping ER **2,0 → 2,2 → 2,7%**.
+
 Tripwire en Abril: si ER < 2,0% o retención < 24%, Mayo se ejecuta con -15% de pauta.
 
 ### YouTube Q2 — "Medir cada formato por lo que importa"
