@@ -70,19 +70,26 @@ Generar una serie de contenidos de tech storytelling en redes sociales que muest
 
 ## 4. Las 5 apps seleccionadas y por qué
 
-El criterio de selección combina cuatro factores:
+El criterio de selección combina cinco factores:
 
 1. **Foco en soluciones propias** (Marketing Nube, Chat Nube, Estadísticas Nube) — alineado con la prioridad estratégica.
-2. **Relevancia para el momento del negocio de Dasha**: transición a 100% online, necesidad de captar, convertir, fidelizar y medir.
-3. **Fit con la categoría accesorios**: producto visual, ticket medio, venta por impulso y regalo.
-4. **Potencial de storytelling**: apps con impacto tangible y demostrable en pantalla.
+2. **No duplicar con funcionalidades propias:** las apps externas incluidas deben ser **complementarias**, no superpuestas, con lo que ya ofrecen Marketing Nube, Chat Nube, Pago Nube y Envío Nube. Revisando el listado de Dasha, detectamos que **varias apps externas pedidas ya están cubiertas por Marketing Nube** (pop-ups, cupones, cumpleaños, cashback/vouchers, notificaciones de venta y stock por email). Esas apps se dejan afuera por definición: nos haría competir con nuestra propia solución en el contenido y diluiría el mensaje.
+3. **Relevancia para el momento del negocio de Dasha**: transición a 100% online, necesidad de captar, convertir, fidelizar y medir.
+4. **Fit con la categoría accesorios**: producto visual, ticket medio, venta por impulso y regalo.
+5. **Potencial de storytelling**: apps con impacto tangible y demostrable en pantalla.
 
-Resultado: **3 soluciones propias + 2 externas**, lo que respeta el foco en lo propio sin perder la narrativa de ecosistema.
+Resultado: **3 soluciones propias + 2 externas complementarias**, lo que respeta el foco en lo propio, evita canibalización con nuestro stack y suma valor genuino en lo externo (fit de categoría y social proof).
 
 ### 4.1 Marketing Nube (solución propia)
 
 - **Por qué la elegimos:** Dasha pasa de tener tráfico físico en showrooms a depender 100% del online. Necesita construir y activar su base de clientes con email marketing, automatizaciones (bienvenida, carrito abandonado, recompra) y campañas. Es el corazón de una estrategia de adquisición y fidelización digital.
-- **Ángulo de storytelling:** "Cómo recuperé a mis clientas de showroom a través del mail". Transición del contacto cara a cara al vínculo digital.
+- **Consolida funcionalidades que hoy están dispersas en apps externas del propio listado de Dasha.** Varias de las apps que Dasha pidió probar son, en la práctica, features que Marketing Nube ya cubre de forma nativa e integrada:
+  - *Tienda Pop* y *Abejita (cupón y descuento pop-up)* → pop-ups de captación de emails y cupones de descuento ya están dentro de Marketing Nube.
+  - *Happy Birthday Apps Nube* → las automatizaciones por cumpleaños forman parte de las automations de Marketing Nube.
+  - *Smartbis / Cashback IA Appsnube* → la lógica de cupones, vouchers y campañas de recompra se resuelve con segmentaciones + cupones + automations de Marketing Nube.
+  - *Notificaciones de venta / Notificaciones de Stock* → los triggers automáticos (carrito abandonado, recompra, back-in-stock a través de email) se ejecutan desde Marketing Nube.
+  - Esto convierte a Marketing Nube en el **caso más potente de tech storytelling**: "una sola herramienta propia de Tiendanube reemplaza a 4 o 5 apps externas". Refuerza el foco en soluciones propias y el mensaje de "Tiendanube como plataforma todo-en-uno".
+- **Ángulo de storytelling:** "Cómo recuperé a mis clientas de showroom a través del mail" + "una sola solución que reemplaza mi stack de marketing". Transición del contacto cara a cara al vínculo digital.
 
 ### 4.2 Chat Nube (solución propia)
 
@@ -103,14 +110,17 @@ Resultado: **3 soluciones propias + 2 externas**, lo que respeta el foco en lo p
 ### 4.5 Revie: reviews por WhatsApp (externa)
 
 - **Por qué la elegimos:** el social proof es uno de los principales drivers de conversión en ecommerce. Revie automatiza el pedido de reseñas por WhatsApp, un canal con tasas de apertura altísimas en Argentina, y cierra el círculo con Chat Nube (atención → venta → review → nueva venta).
-- **Por qué esta externa y no otra:** reseñas reales de clientas potencian todo lo demás (Marketing Nube para activarlas, Shop the look para mostrar combinaciones reseñadas, Estadísticas Nube para medir el impacto en conversión).
+- **Por qué esta externa y no otra:** es una funcionalidad **complementaria**, no superpuesta, a nuestras soluciones propias. El pedido automatizado de reseñas por WhatsApp (no por email) es lo que hoy Marketing Nube no cubre, y se integra muy bien con el resto del stack seleccionado: Marketing Nube para activar esas reseñas, Shop the look para mostrar combinaciones reseñadas, Estadísticas Nube para medir el impacto en conversión.
+- **Nota sobre la alternativa Abejita (reseñas de Google):** queda fuera porque apunta a Google Reviews (SEO / ficha de negocio), menos relevante para una marca que acaba de cerrar sus locales físicos y vive de Instagram + tienda online.
 - **Ángulo de storytelling:** "La voz de mis clientas como mi mejor vendedora". Testimonios reales, con permiso, integrados a la comunicación.
 
 ### Apps que quedaron fuera en esta primera selección (y por qué)
 
+- **Apps externas que duplican funcionalidades de Marketing Nube** — *Tienda Pop*, *Abejita (cupón y descuento pop-up)*, *Happy Birthday Apps Nube*, *Smartbis / Cashback IA Appsnube*, *Notificaciones de venta*, *Notificaciones de Stock*. Se descartan por criterio estratégico: no tiene sentido regalar acceso a apps externas para hablar de funciones que ya cubre nuestra propia suite. Incluirlas diluiría el foco en soluciones propias y nos haría competir con nosotros mismos en el contenido. El storytelling se concentra en Marketing Nube como reemplazo integral de ese stack.
 - **Sistema Nube Plus:** es una suite/plan, no una app puntual. Su valor se cuenta mejor en un caso de éxito long-form, no en un barter de contenido atómico.
-- **Facturante, Astroselling, Notificaciones de Stock, Notificaciones de venta:** muy útiles operativamente, pero de bajo atractivo visual / narrativo para redes.
-- **Happy Birthday, Gift Wrap, Saludos para regalo, Smartbis/Cashback, Tienda Pop, Cross Up, Cashing, Abejita (cupón pop-up y Google Reviews), Nuby, Campo personalizado:** son candidatas muy válidas para una **fase 2** del acuerdo o para sumar después de evaluar resultados. Se pueden rotar si alguna de las 5 no performa.
+- **Facturante, Astroselling:** muy útiles operativamente, pero de bajo atractivo visual / narrativo para redes.
+- **Abejita (reseñas de Google):** se prioriza Revie (reviews por WhatsApp) por mejor fit con el canal dominante en Argentina y con una marca sin locales físicos.
+- **Gift Wrap, Saludos para regalo, Cross Up, Cashing, Nuby, Campo personalizado:** son candidatas válidas para una **fase 2** del acuerdo o para rotar si alguna de las 5 no performa.
 
 ---
 
