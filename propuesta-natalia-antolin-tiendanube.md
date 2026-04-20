@@ -43,18 +43,25 @@ Aprovechar el evento como activación de fidelización de clientas de Natalia An
   - Caption con mención a ambas marcas y CTA al sitio de Natalia Antolin.
   - Derechos de whitelisting / Spark Ads por 60 días para amplificación paga.
 
-### 2.4 Case study audiovisual — impacto del Probador Virtual (activo comercial)
-- **Qué es:** mini-documental de 2–3 minutos que muestra el impacto real del Probador Virtual en el negocio de Natalia Antolin.
-- **Estructura:**
-  1. Contexto de la marca y el desafío de la moda de alta costura en ecommerce.
-  2. Testimonio de Natalia Antolin (fundadora/equipo) sobre por qué adoptaron el Probador Virtual.
-  3. El Probador Virtual en acción durante el evento (imágenes del totem + invitadas).
-  4. **Métricas de impacto**: conversión, tiempo en sitio, tasa de devoluciones, ticket promedio u otros KPIs que la marca esté dispuesta a compartir.
-  5. Cierre con visión a futuro de la colaboración.
-- **Producción:** se filma el mismo día del evento en un bloque previo de 1–2 horas, aprovechando el equipo de filmmaker ya presupuestado. Costo marginal bajo.
-- **Uso para Tiendanube:** landing del Probador Virtual, pitch a otras marcas de moda, keynotes, prensa tech, LinkedIn corporativo y perfiles de liderazgo.
-- **Uso para Natalia Antolin:** posicionamiento como marca innovadora de alta costura con tecnología aplicada; amplificación en medios de moda y tech.
+### 2.4 Case study en formato carrusel — impacto del Probador Virtual (activo comercial)
+- **Qué es:** un carrusel de 8–10 slides que cuenta el caso Natalia Antolin × Probador Virtual con foco en impacto de negocio.
+- **Estructura sugerida:**
+  1. Portada con claim y marcas.
+  2. Contexto: el desafío de la alta costura en ecommerce.
+  3. Por qué Natalia Antolin adoptó el Probador Virtual (decisión + objetivos).
+  4. Cómo se implementó (breve).
+  5–7. **Métricas de impacto**: conversión, tiempo en sitio, tasa de devoluciones, ticket promedio u otros KPIs que la marca esté dispuesta a compartir (1 métrica por slide para máxima legibilidad).
+  8. Quote de Natalia Antolin (fundadora/equipo).
+  9. Cierre con visión a futuro de la colaboración.
+  10. CTA para otras marcas interesadas en el Probador Virtual.
+- **Producción:** diseño gráfico (sin rodaje adicional). Imágenes del evento ya capturadas por el filmmaker del recap.
+- **Canales de publicación:**
+  - LinkedIn de Tiendanube + perfiles de liderazgo (canal principal para audiencia B2B).
+  - Instagram de Tiendanube y Natalia Antolin (versión adaptada de feed).
+  - Exportado como PDF para uso del equipo comercial de Tiendanube (pitch a otras marcas, one-pager de ventas).
+- **Uso comercial:** keynotes, prensa tech y material de ventas enterprise.
 - **Derechos:** cesión cruzada por 12 meses; Tiendanube con derechos de uso comercial extendido.
+- **Nota:** la parte audiovisual del Probador Virtual en acción ya queda cubierta por el video recap (sección 2.1); este case study complementa esa pieza con el lado de datos e impacto de negocio.
 
 ---
 
@@ -66,7 +73,7 @@ Aprovechar el evento como activación de fidelización de clientas de Natalia An
 | 2 | Cobertura Stories KOL moda (8–12 stories) | IG KOL + repost ambas marcas | KOL + brief conjunto |
 | 3 | TikTok #1 — "5 looks sin cambiarme" | TikTok | KOL |
 | 4 | TikTok #2 — "Me vestí con IA" | TikTok | KOL |
-| 5 | Case study audiovisual 2–3 min | Web, LinkedIn, sales, prensa | Tiendanube |
+| 5 | Case study en carrusel (8–10 slides) + PDF | LinkedIn, IG, sales, prensa | Tiendanube |
 
 ---
 
@@ -85,7 +92,7 @@ Aprovechar el evento como activación de fidelización de clientas de Natalia An
 
 - **Alcance** total orgánico + paid.
 - **Engagement rate** en piezas de la KOL.
-- **Views** del video recap y del case study.
+- **Views** del video recap y **alcance + guardados + descargas (PDF)** del case study en carrusel.
 - **Tráfico** al sitio de Natalia Antolin y **uso del Probador Virtual** en los 30 días post-evento.
 - **Menciones de marca** de Tiendanube asociadas a "Probador Virtual" / "IA" en medios y redes.
 
@@ -96,5 +103,6 @@ Aprovechar el evento como activación de fidelización de clientas de Natalia An
 1. Validar con Natalia Antolin el alcance de esta propuesta.
 2. Confirmar KOL (Ash Matteu): disponibilidad y fee.
 3. Brief creativo conjunto y calendario editorial (evento + publicación).
-4. Confirmar filmmaker y plan de rodaje incluyendo bloque dedicado al case study.
-5. Definir con Natalia Antolin qué métricas del Probador Virtual pueden compartirse públicamente.
+4. Confirmar filmmaker y plan de rodaje del evento (el case study no requiere rodaje adicional).
+5. Definir con Natalia Antolin qué métricas del Probador Virtual pueden compartirse públicamente en el carrusel.
+6. Coordinar diseño gráfico del carrusel (plantilla co-branded Tiendanube × Natalia Antolin).
