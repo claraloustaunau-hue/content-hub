@@ -1,46 +1,33 @@
-# Acuerdo de colaboración Tiendanube × Dasha
+# Propuesta de colaboración Tiendanube × Dasha
 
-**Documento interno — Brand Content Coordinator**
-**Área:** Content Hub · Tiendanube
-**Partner:** Dasha (marca de accesorios, 13 años en Tiendanube)
-**Formato:** Barter de acceso a apps ↔ contenido para redes sociales
-**Estado:** Propuesta para revisión
+**Barter de acceso a apps ↔ contenido para redes sociales**
+**Partner:** Dasha
+**Versión:** Propuesta inicial
+**Estado:** Para revisión conjunta
+
+> **Nota de uso del documento:** el cuerpo principal (secciones 1 a 9) es la propuesta compartible con Dasha. Al final hay un **Anexo A — Interno Tiendanube** con el racional estratégico, criterios de selección detallados y consideraciones internas. **El Anexo A no debe compartirse con la marca.**
 
 ---
 
-## 1. Intro
+## 1. Contexto
 
-Dasha es una marca de accesorios argentina que opera con Tiendanube desde hace 13 años. Frente al contexto económico actual, tomó la decisión estratégica de cerrar sus showrooms físicos y volcar el 100% de su operación al canal online, donde ya concentra la mayoría de sus ventas.
+Dasha es una marca de accesorios argentina con 13 años de historia en Tiendanube. Frente al contexto económico actual, tomó la decisión de cerrar sus showrooms físicos y volcar el 100% de su operación al canal online, donde ya concentra la mayoría de sus ventas.
 
-En este escenario, Dasha necesita potenciar su tienda online con nuevas funcionalidades y apps del ecosistema Tiendanube, pero quiere hacerlo sin sumar costos fijos durante la transición. Por eso propusieron un acuerdo: acceso gratuito a un set de aplicaciones de la Tienda de Aplicaciones a cambio de generar contenido para redes sociales mostrando cómo las usan, qué resultados les traen y cómo impactan en su negocio.
+En ese marco, Dasha le propuso a Tiendanube una colaboración: acceso gratuito a un set de aplicaciones de la Tienda de Aplicaciones —para probarlas, implementarlas y evaluar cómo impactan en su negocio online— a cambio de generar contenido para redes sociales mostrando cómo las usa, qué aprende y qué resultados obtiene.
 
-Para Tiendanube la oportunidad es doble:
-
-- Un merchant con 13 años de trayectoria hablando en primera persona sobre nuestras funcionalidades es **social proof de altísima calidad**.
-- Se alinea directamente con el **desafío del Content Hub 2026: tech storytelling**, es decir, llevar la tecnología al frente y posicionarnos como expertos en ecommerce a través de historias reales de merchants.
+Tiendanube acepta la propuesta y formaliza en este documento el alcance, los compromisos y los entregables.
 
 ---
 
 ## 2. Objetivo de la colaboración
 
-**Objetivo general**
-Generar una serie de contenidos de tech storytelling en redes sociales que muestren, a través de la experiencia real de Dasha, cómo las soluciones de Tiendanube (propias y del ecosistema) acompañan a una marca tradicional en su transición a un negocio 100% online.
+Acompañar a Dasha en su transición a un negocio 100% online mediante el acceso a un conjunto de funcionalidades de Tiendanube, y producir en conjunto una serie de contenidos para redes sociales que muestren, a través de la experiencia real de la marca, cómo la tecnología ayuda a sostener y hacer crecer la operación.
 
-**Objetivos específicos**
+**Lo que buscamos lograr entre ambas partes:**
 
-1. Reforzar el posicionamiento de Tiendanube como experta en ecommerce y socia estratégica en momentos de cambio.
-2. Dar visibilidad y comprensión de uso a nuestras soluciones propias (Marketing Nube, Chat Nube, Estadísticas Nube) con casos de uso reales.
-3. Mostrar el valor del ecosistema de apps como diferencial competitivo de la plataforma.
-4. Acompañar de manera concreta a un merchant histórico en un momento crítico, fortaleciendo la relación y generando un caso de éxito replicable.
-
-**KPIs sugeridos**
-
-- Alcance e impresiones en redes sociales (Dasha + Tiendanube).
-- Engagement rate por pieza (promedio y por app).
-- Menciones y saves en Instagram / Reels.
-- Tráfico desde contenidos hacia la Tienda de Aplicaciones.
-- Instalaciones/activaciones de las apps destacadas durante la campaña.
-- Sentiment cualitativo en comentarios.
+- Que Dasha pueda probar, implementar y adoptar nuevas herramientas sin sumar costos fijos durante la transición.
+- Que los contenidos muestren aprendizajes reales, útiles para la audiencia de Dasha y para la comunidad de emprendedoras/emprendedores de Tiendanube.
+- Construir una colaboración medible, con expectativas claras de ambos lados y un cierre que deje un material de valor compartido.
 
 ---
 
@@ -48,218 +35,260 @@ Generar una serie de contenidos de tech storytelling en redes sociales que muest
 
 ### Tiendanube aporta
 
-- Acceso gratuito a las 5 apps seleccionadas por el período acordado (ver sección 5).
-- Coordinación con los partners de las apps externas para gestionar licencias sin costo.
-- Onboarding guiado de cada app: sesiones de kick-off con el equipo de producto/partners cuando aplique.
+- Acceso gratuito a las 5 aplicaciones seleccionadas por el período acordado (ver sección 5).
+- Coordinación con los partners de las apps externas para gestionar las licencias sin costo para Dasha.
+- Onboarding guiado de cada app: sesiones de kick-off con los equipos correspondientes.
 - Soporte prioritario durante la vigencia del acuerdo.
-- Briefs de contenido, guía editorial y key messages por cada app.
-- Repost y amplificación desde los canales oficiales de Tiendanube (cuando el contenido cumpla con los lineamientos).
-- Posibilidad de incluir a Dasha en un caso de éxito long-form (blog, newsletter, video testimonial) al cierre de la colaboración.
+- Briefs de contenido y guía editorial por cada app (ejes sugeridos, mensajes clave, formatos).
+- Amplificación del contenido desde los canales oficiales de Tiendanube cuando se alinee con los lineamientos.
+- Posibilidad de incluir a Dasha en un caso de éxito final (nota de blog, newsletter, video testimonial).
 
 ### Dasha aporta
 
-- Instalación y uso real de las 5 apps dentro de su tienda durante todo el período del acuerdo.
-- Producción de contenido orgánico para sus redes sociales según el plan de contenidos pactado (ver sección 6).
-- Mención visible de Tiendanube y del nombre de cada app en cada pieza.
-- Uso de hashtags y arrobas acordados (#TiendanubeExperts, @tiendanube y el handle del partner cuando aplique).
-- Feedback cualitativo y cuantitativo del uso de cada app (lo que sirve como input para el caso de éxito final).
-- Autorización para que Tiendanube reposte y/o adapte el contenido en sus canales y materiales.
-- Disponibilidad para una entrevista / sesión de fotos o video al cierre del acuerdo para el caso de éxito.
+- Instalación y uso real de las 5 aplicaciones dentro de su tienda durante todo el período del acuerdo.
+- Producción de contenido orgánico para sus redes sociales según el plan pactado (ver sección 6).
+- Mención visible de Tiendanube y del nombre de cada aplicación en cada pieza.
+- Uso de hashtags y arrobas acordados.
+- Feedback cualitativo y cuantitativo sobre el uso de cada app, como input para el contenido y para el caso de éxito final.
+- Autorización a Tiendanube para repostear y/o adaptar el contenido en sus canales por 12 meses.
+- Disponibilidad para una entrevista / sesión de producción al cierre del acuerdo.
 
 ---
 
-## 4. Las 5 apps seleccionadas y por qué
+## 4. Las 5 aplicaciones seleccionadas
 
-El criterio de selección combina cinco factores:
+La selección combina soluciones propias de Tiendanube (que son el núcleo de la estrategia online) con dos aplicaciones externas que resuelven necesidades específicas del negocio de Dasha.
 
-1. **Foco en soluciones propias** (Marketing Nube, Chat Nube, Estadísticas Nube) — alineado con la prioridad estratégica.
-2. **No duplicar con funcionalidades propias:** las apps externas incluidas deben ser **complementarias**, no superpuestas, con lo que ya ofrecen Marketing Nube, Chat Nube, Pago Nube y Envío Nube. Revisando el listado de Dasha, detectamos **seis apps externas que Marketing Nube cubre** — tres de forma total (*Tienda Pop*, *Abejita cupón/pop-up*, *Happy Birthday*) y tres de forma parcial (*Smartbis/Cashback*, *Notificaciones de Stock*, *Revie*). Todas se dejan afuera: aunque la cobertura sea parcial, el mensaje debe ser que Marketing Nube es el centro de la estrategia, no compartir el escenario con externas que hacen parte de lo mismo.
-3. **Relevancia para el momento del negocio de Dasha**: transición a 100% online, necesidad de captar, convertir, fidelizar y medir.
-4. **Fit con la categoría accesorios**: producto visual, ticket medio, venta por impulso y regalo.
-5. **Potencial de storytelling**: apps con impacto tangible y demostrable en pantalla.
+### 4.1 Marketing Nube *(solución Tiendanube)*
 
-Resultado: **3 soluciones propias + 2 externas complementarias**, lo que respeta el foco en lo propio, evita canibalización con nuestro stack y suma valor genuino en lo externo (fit de categoría y social proof).
+- **Qué resuelve para Dasha:** construir y activar la base de clientas con email marketing, automatizaciones (bienvenida, carrito abandonado, recompra, cumpleaños) y campañas segmentadas. Incluye pop-ups de captación de emails y cupones de descuento dentro del sitio.
+- **Por qué en este momento:** al perder el tráfico de showroom, el vínculo con la clienta se construye y sostiene de manera digital. Marketing Nube concentra adquisición, activación y fidelización en una sola herramienta integrada a la tienda.
+- **Eje sugerido de contenido:** "Cómo recupero y activo a mis clientas sin un showroom físico".
 
-### 4.1 Marketing Nube (solución propia)
+### 4.2 Chat Nube *(solución Tiendanube)*
 
-- **Por qué la elegimos:** Dasha pasa de tener tráfico físico en showrooms a depender 100% del online. Necesita construir y activar su base de clientes con email marketing, automatizaciones (bienvenida, carrito abandonado, recompra) y campañas. Es el corazón de una estrategia de adquisición y fidelización digital.
-- **Consolida funcionalidades que hoy están dispersas en apps externas del propio listado de Dasha.** Revisando lo que pidió probar, hay **seis apps externas** que Marketing Nube cubre — tres en su totalidad y tres de manera parcial:
+- **Qué resuelve para Dasha:** centraliza las consultas de clientas y permite sostener la atención cercana que caracteriza a la marca. Clave en una categoría como accesorios, donde la consulta pre-compra (talles, materiales, combinaciones) es alta.
+- **Por qué en este momento:** la atención personalizada que antes ocurría en el showroom se traslada al chat; la herramienta permite mantener la experiencia sin perder escala.
+- **Eje sugerido de contenido:** "El mostrador ahora es el chat: cómo acompaño una compra de principio a fin".
 
-  **Cubre en su totalidad:**
-  - *Tienda Pop* → pop-ups de captación de emails ya están dentro de Marketing Nube.
-  - *Abejita (cupón y descuento pop-up)* → pop-ups con cupón de descuento ya están en Marketing Nube.
-  - *Happy Birthday Apps Nube* → la automatización por cumpleaños forma parte de las automations de Marketing Nube.
+### 4.3 Estadísticas Nube *(solución Tiendanube)*
 
-  **Cubre parcialmente** (resuelve la pieza principal; queda algún complemento que MN no hace):
-  - *Smartbis / Cashback IA Appsnube* → MN resuelve cupones, vouchers y campañas de recompra. Lo que no cubre es el cashback **acumulativo** (saldo del cliente, reglas de acumulación, canje). Para el 80% del caso de uso de Dasha, MN alcanza.
-  - *Notificaciones de Stock (back-in-stock)* → MN envía el mail de back-in-stock; lo que falta es el widget de suscripción por SKU en la ficha de producto. Con una solución simple (formulario) MN cubre el flujo end-to-end.
-  - *Revie (reviews por WhatsApp)* → MN envía el email de post-venta pidiendo reseña; lo que no cubre es la recolección, moderación y display de reseñas, ni el canal WhatsApp. La generación del pedido de reseña sí está en MN.
+- **Qué resuelve para Dasha:** entender qué productos performan mejor online, qué campañas convierten, dónde están las oportunidades y cómo evoluciona el negocio en datos reales.
+- **Por qué en este momento:** en una transición de modelo de negocio, tomar decisiones con datos reduce riesgos y acelera los aprendizajes.
+- **Eje sugerido de contenido:** "Las decisiones que antes tomaba por intuición, ahora las tomo con datos".
 
-- Esto convierte a Marketing Nube en el **caso más potente de tech storytelling**: "una sola herramienta propia reemplaza 6 apps externas que tenía en la mira". Refuerza el foco en soluciones propias y el mensaje de "Tiendanube como plataforma todo-en-uno".
-- **Ángulo de storytelling:** "Cómo recuperé a mis clientas de showroom a través del mail" + "una sola solución que reemplaza 6 apps externas de mi lista". Transición del contacto cara a cara al vínculo digital.
+### 4.4 Shop the look *(app externa)*
 
-### 4.2 Chat Nube (solución propia)
+- **Qué resuelve para Dasha:** permite armar looks completos combinando productos, sugerir combinaciones y replicar en la tienda online la lógica de vitrinas y asesoramiento que funcionaba en el showroom.
+- **Por qué en este momento:** es una app con muy buen fit con la categoría accesorios, donde la combinación de piezas es un driver de ticket promedio. Además, el formato visual funciona muy bien en Reels y carruseles de Instagram.
+- **Eje sugerido de contenido:** "Mis vitrinas ahora viven en la home de la tienda".
 
-- **Por qué la elegimos:** sin showrooms, la atención personalizada se traslada al chat. Chat Nube centraliza las consultas y permite sostener la experiencia cercana que caracteriza a Dasha. Es clave para la conversión en una categoría donde la consulta pre-compra es alta (talles, materiales, combinaciones).
-- **Ángulo de storytelling:** "El mostrador ahora es el chat". Mostrar cómo el equipo de atención acompaña una compra de principio a fin.
+### 4.5 Campo personalizado *(app externa)*
 
-### 4.3 Estadísticas Nube (solución propia)
-
-- **Por qué la elegimos:** en una transición de modelo, tomar decisiones sin datos es un riesgo. Estadísticas Nube le permite a Dasha entender qué productos performan mejor online, qué campañas convierten y dónde está la oportunidad. Refuerza nuestro mensaje de "Tiendanube como socio experto en ecommerce".
-- **Ángulo de storytelling:** "Las decisiones que antes tomaba por intuición ahora las tomo con datos". Muy potente para el eje de tech storytelling.
-
-### 4.4 Shop the look (externa)
-
-- **Por qué la elegimos:** es la app que mejor le habla a una marca de **accesorios**. Permite armar looks completos y sugerir combinaciones, aumentando ticket promedio y replicando la lógica del showroom (vitrinas, combinaciones, asesoramiento) en el online.
-- **Por qué esta externa y no otra:** el fit con la categoría es casi perfecto y el resultado visual es ideal para Reels e Instagram, donde Dasha concentra su audiencia.
-- **Ángulo de storytelling:** "Mis vitrinas ahora viven en la home". Reels antes/después mostrando cómo cambia la experiencia de compra.
-
-### 4.5 Campo personalizado (externa)
-
-- **Por qué la elegimos:** resuelve un **pain operativo concreto de Dasha**. Hoy, cada pedido personalizado (grabado de inicial, nombre, fecha, elección de combinación, nota para regalo, etc.) se toma **manualmente** — por DM, por WhatsApp o por mail — y requiere que alguien del equipo vuelva sobre la compra para confirmar el detalle antes de producir. Eso consume tiempo, genera errores y demora despachos. Campo personalizado permite sumar esos datos **dentro del flujo de compra**, en el checkout o en la ficha de producto, quedando asociados al pedido de forma automática.
-- **Por qué no la cubre Marketing Nube (ni ninguna otra solución propia):** es una funcionalidad de **checkout / ficha de producto**, no de email ni de atención ni de analytics. No hay equivalente nativo hoy en la plataforma para capturar datos custom por pedido dentro del flujo de compra.
-- **Por qué esta externa y no otra:** es la única externa del listado que resuelve un **dolor operativo específico y diferencial** de esta marca. Los accesorios son una categoría donde la personalización (inicial grabada, combinaciones, regalo) es un driver de ticket promedio y diferenciación. Además, el storytelling es muy claro: "antes perdía una hora por pedido entre mensajes; ahora el dato viene cargado en el checkout".
-- **Ángulo de storytelling:** "La personalización que antes tomaba en mensajes, ahora entra sola con el pedido". Muy fuerte para el eje tech storytelling: la tecnología al servicio de destrabar un proceso manual que no escala en un negocio 100% online.
-
-### Apps que quedaron fuera en esta primera selección (y por qué)
-
-Agrupadas por motivo del descarte:
-
-**A) Apps externas cubiertas por Marketing Nube** — se descartan por criterio estratégico: no tiene sentido regalar acceso a una externa para hablar de algo que ya hace (total o parcialmente) nuestra propia suite. El storytelling se concentra en Marketing Nube como centro de la estrategia.
-
-- *Tienda Pop* → pop-up de captación de emails. **Cobertura total** por Marketing Nube.
-- *Abejita: cupón y descuento pop-up* → pop-up con cupón. **Cobertura total** por Marketing Nube.
-- *Happy Birthday Apps Nube* → automation de cumpleaños. **Cobertura total** por Marketing Nube.
-- *Smartbis / Cashback IA Appsnube* → **Cobertura parcial**: MN resuelve cupones, vouchers y campañas de recompra (el 80% del caso de uso). Queda fuera el cashback acumulativo puro, pero no se justifica sumar una externa si el foco está en MN.
-- *Notificaciones de Stock* → **Cobertura parcial**: MN envía el mail de back-in-stock; falta solo el widget de suscripción, que puede resolverse con un formulario simple. El protagonista sigue siendo MN.
-- *Revie (reviews por WhatsApp)* → **Cobertura parcial**: MN envía el email de post-venta pidiendo la reseña, que es la parte activable de la automation. La recolección, moderación y el canal WhatsApp quedan fuera; se evaluará en fase 2 si Dasha quiere sumar un módulo de reviews on-site.
-
-**B) Apps externas no cubiertas por Marketing Nube que NO seleccionamos ahora** — son candidatas válidas para una **fase 2** o para rotar dentro de los primeros 45 días si alguna de las 5 no performa.
-
-- *Cross Up* → cross-sell / upsell on-site en ficha de producto y carrito. No es funcionalidad de MN. Queda fuera ahora por foco narrativo.
-- *Nuby* → programa de fidelidad / puntos. No está en MN. Fase 2 si se decide sumar un loyalty.
-- *Abejita (reseñas de Google)* → apunta a Google Reviews (SEO / ficha de negocio en Google), menos relevante para una marca sin locales físicos.
-- *Saludos para regalo*, *Gift Wrap App Nube* → features de checkout muy valiosas para una marca de accesorios pero acotadas en amplitud de storytelling; buenas candidatas para fase 2.
-- *Cashing* → alternativa de cobro; se prioriza hablar de **Pago Nube** (solución propia) en cualquier mención a pagos.
-
-**C) Apps que quedan fuera por otros motivos.**
-
-- *Sistema Nube Plus* → es una suite/plan, no una app puntual. Su valor se cuenta mejor en un caso de éxito long-form.
-- *Facturante* → facturación electrónica AFIP; crítico operativo, pero bajo atractivo visual/narrativo para redes.
-- *Astroselling* → integración con marketplaces (Meli, etc.); aleja el foco de "tienda propia 100% online", que es la historia que queremos contar con Dasha.
-- *Notificaciones de venta Apps Nube* → notificación al **merchant** cuando vende (no al cliente). Es utilitario interno; poco contenido.
+- **Qué resuelve para Dasha:** permite capturar información custom de cada pedido (grabado de inicial, elección de combinación, dedicatoria para regalo, nota especial) **dentro del flujo de compra**, en la ficha de producto o en el checkout, asociada automáticamente al pedido.
+- **Por qué en este momento:** hoy Dasha toma esos pedidos personalizados de manera manual, a través de DM, WhatsApp o mail, lo que consume tiempo del equipo y abre espacio a errores antes del despacho. Esta app ordena ese proceso y lo integra al flujo de venta.
+- **Eje sugerido de contenido:** "La personalización que antes tomaba por mensajes, ahora entra con el pedido".
 
 ---
 
 ## 5. Duración del acuerdo
 
-**Duración total propuesta: 4 meses.**
+**Duración total: 4 meses**, estructurados de la siguiente manera:
 
-- **Mes 0 — Onboarding (2 semanas previas al mes 1):** kick-offs, instalación, configuración, entrega de briefs, calendario de contenidos.
-- **Meses 1 a 4 — Producción y publicación:** 1 app por mes como "app foco" (los meses se rotan), sin dejar de usar las otras en piezas complementarias.
-- **Cierre (últimas 2 semanas del mes 4):** producción del caso de éxito integrador (video testimonial + nota de blog + carrusel resumen).
+- **Onboarding (2 semanas previas al mes 1):** kick-offs con cada app, instalación, configuración, entrega de briefs y calendario editorial.
+- **Meses 1 a 4 — Producción y publicación:** una app por mes como "foco", sin dejar de usar las demás en piezas complementarias.
+- **Cierre (últimas 2 semanas del mes 4):** producción de un contenido integrador (video testimonial + nota + carrusel) que consolide los aprendizajes del proceso.
 
-**Por qué 4 meses y no menos:** las apps de marketing, atención y analytics necesitan al menos un ciclo completo de campaña y medición para mostrar resultados reales. Contenidos hechos sobre un uso de 2 semanas se leen como publicidad; a 4 meses se leen como experiencia.
+**Por qué 4 meses:** las herramientas de marketing, atención y analytics necesitan al menos un ciclo completo de campaña y medición para mostrar resultados genuinos. Un período corto arriesga que los contenidos se perciban como publicidad; 4 meses permiten hablar desde la experiencia.
 
-**Por qué no más:** mantiene el acuerdo acotado, medible y permite evaluar si se renueva con nuevas apps (fase 2) o se cierra con el caso de éxito.
+**Al finalizar el acuerdo:**
 
-**Condiciones de continuidad al finalizar:**
-
-- Si Dasha quiere seguir usando las apps, pasa al pricing habitual de cada partner (Tiendanube puede gestionar condiciones preferenciales como parte del reconocimiento).
-- Si alguna app no se adecuó, se puede rotar por otra del listado original dentro de los primeros 45 días.
+- Si Dasha desea continuar usando las aplicaciones, pasará al pricing habitual de cada partner. Tiendanube puede gestionar condiciones preferenciales como reconocimiento a la colaboración.
+- Si alguna de las 5 apps no se adecua al negocio de Dasha, se podrá rotar por otra del listado original dentro de los primeros **45 días** del acuerdo.
 
 ---
 
 ## 6. Qué esperamos de los contenidos
 
-### Lineamientos generales (aplican a todas las apps)
+### Lineamientos generales
 
-- **Tono:** cercano, honesto, de merchant a merchant. Sin script publicitario.
-- **Formatos prioritarios:** Reels, carruseles de Instagram, stories con stickers de pregunta.
-- **Eje narrativo común:** *"Cómo una marca de 13 años se reinventa 100% online con tecnología".*
-- **Obligatorio en cada pieza:** mención de Tiendanube, nombre de la app, hashtag acordado (#TiendanubeExperts o el que definamos).
-- **Entregables mínimos por app:** 1 Reel + 1 carrusel + 3 stories + 1 testimonial corto en video (15–30s) utilizable por Tiendanube.
-- **Aprobación editorial:** revisión conjunta antes de publicar (no bloqueante, SLA 48 hs).
-- **Derechos de uso:** Dasha cede a Tiendanube el derecho de reposteo y adaptación por 12 meses desde la publicación.
+- **Tono:** cercano, honesto, de marca a comunidad. La autenticidad es más valiosa que el script publicitario.
+- **Formatos prioritarios:** Reels, carruseles de Instagram, stories con stickers interactivos (preguntas, encuestas).
+- **Eje narrativo común:** *"Cómo una marca de 13 años se reinventa 100% online con tecnología."*
+- **Menciones obligatorias en cada pieza:** Tiendanube, nombre de la aplicación, hashtag acordado (a definir en kick-off, por ejemplo #TiendanubeExperts).
+- **Entregables mínimos por app:**
+  - 1 Reel.
+  - 1 carrusel.
+  - 3 stories (una de ellas interactiva).
+  - 1 testimonial corto en video (15–30s) que Tiendanube pueda usar en sus propios canales.
+- **Aprobación editorial:** revisión conjunta previa a la publicación. Compromiso de respuesta en 48 hs por ambos lados (no bloqueante).
+- **Derechos de uso:** Dasha autoriza a Tiendanube a repostear y adaptar los contenidos generados en el marco de la colaboración por un plazo de 12 meses desde la publicación.
 
-### Expectativas por app
+### Ideas por aplicación
 
 **Marketing Nube**
 
-- Reel "antes/después": la base de datos que tenía del showroom vs. cómo la activa hoy con campañas y automations.
-- Carrusel educativo: 3 automations que toda marca debería tener (bienvenida, carrito abandonado, recompra).
-- Métrica a compartir: apertura/CTR de una campaña real (con número o con %).
+- Reel "antes/después": cómo era mi base de contactos cuando tenía showroom vs. cómo la activo hoy con campañas y automatizaciones.
+- Carrusel educativo: 3 automatizaciones que toda marca online debería tener (bienvenida, carrito abandonado, recompra).
+- Story testimonial con una métrica real de una campaña (apertura, CTR, ventas asistidas).
 
 **Chat Nube**
 
 - Reel "un día en la atención de Dasha": del primer mensaje a la venta.
 - Carrusel: preguntas frecuentes de clientas de accesorios y cómo responderlas rápido.
-- Story con encuesta: *"¿Qué preferís, WhatsApp o chat en la tienda?"* — dispara conversación.
+- Story con encuesta: *"¿Qué preferís, WhatsApp o chat en la tienda?"*.
 
 **Estadísticas Nube**
 
 - Reel "las 3 métricas que miro todos los lunes".
-- Carrusel: cómo una decisión de producto cambió después de mirar los datos (ej. discontinuar un producto, potenciar otro).
-- Este es el contenido **estrella del tech storytelling**: pedirle a Dasha un testimonial de 30s enfocado en "decisiones con datos".
+- Carrusel: una decisión de producto que cambió después de mirar los datos.
+- Testimonial de 30s enfocado en "decisiones con datos" (pieza destacada del acuerdo).
 
 **Shop the look**
 
 - Reel visual: armado de un look completo a partir de un accesorio.
-- Carrusel: "3 looks, 3 ocasiones" con productos combinados.
-- Stories: encuesta "¿Cuál te llevás?" con link directo al look.
+- Carrusel "3 looks, 3 ocasiones" con productos combinados y link directo.
+- Story interactiva: encuesta "¿Cuál te llevás?".
 
 **Campo personalizado**
 
-- Reel "antes/después": bandeja de DMs llena de pedidos de personalización vs. el mismo dato entrando automático por el checkout.
-- Carrusel: 3 usos concretos del campo personalizado en accesorios (grabado de inicial, dedicatoria de regalo, elección de combinación).
-- Story testimonial: *"Cuánto tiempo me ahorré por semana desde que activé los campos personalizados"* con un dato concreto (horas/pedidos).
-- Pieza bonus para amplificar desde Tiendanube: video testimonial corto enfocado en "la tecnología que destraba un proceso manual" — encaja perfecto en el eje de tech storytelling.
+- Reel "antes/después": bandeja de DMs llena de pedidos personalizados vs. el mismo dato entrando automáticamente por el checkout.
+- Carrusel con 3 usos concretos del campo personalizado en accesorios (inicial grabada, dedicatoria de regalo, elección de combinación).
+- Story testimonial con un dato concreto: tiempo ahorrado por semana / cantidad de pedidos procesados sin errores.
 
 ### Cadencia sugerida
 
-- **2 piezas por semana** (1 propia de Dasha + 1 de app).
+- **2 piezas por semana:** 1 pieza propia de Dasha + 1 pieza vinculada a una de las apps.
 - **1 Reel mensual** destacando la "app foco" del mes.
-- **1 pieza colaborativa al mes** entre Dasha y Tiendanube (co-posteo / collab reel).
+- **1 pieza colaborativa al mes** entre Dasha y Tiendanube (co-posteo o collab reel).
+
+### Indicadores que vamos a mirar juntas/os
+
+Al cierre del acuerdo revisaremos un panel con:
+
+- Alcance e impresiones totales.
+- Engagement promedio por pieza.
+- Evolución de seguidores en el período.
+- Métricas de negocio de Dasha vinculadas al uso de cada app (cuando aplique y Dasha quiera compartirlas).
 
 ---
 
 ## 7. Gobernanza y roles
 
-- **Responsable por Tiendanube:** Brand Content Coordinator (brief, revisión, amplificación, vínculo con partners de apps externas).
-- **Referente por Dasha:** a definir (idealmente quien lidera marketing/redes).
-- **Partners externos involucrados:** equipos de Shop the look y Campo personalizado (coordinación de licencia, onboarding y acceso a métricas).
-- **Ritmo de sincronización:**
-  - Kick-off general (30 min) al inicio.
+- **Referente por Tiendanube:** Brand Content Coordinator (briefs, revisión editorial, amplificación, coordinación con partners).
+- **Referente por Dasha:** a definir (idealmente quien lidera marketing / redes).
+- **Partners externos involucrados:** equipos de Shop the look y Campo personalizado, para licencia, onboarding y métricas.
+- **Ritmo de trabajo:**
+  - Kick-off inicial (30 min).
   - Check-in quincenal (30 min) durante los 4 meses.
-  - Review final + producción del caso de éxito al cierre.
+  - Review final y producción del contenido de cierre en las últimas 2 semanas.
 
 ---
 
-## 8. Riesgos y cómo los mitigamos
+## 8. Consideraciones y acuerdos
 
-| Riesgo | Mitigación |
-|---|---|
-| La app no se adapta a Dasha y el contenido pierde autenticidad. | Ventana de 45 días para rotar una app por otra del listado. |
-| Retrasos de publicación. | Calendario editorial con fechas comprometidas al inicio. SLA de aprobación de 48 hs. |
-| Contenido demasiado "publicitario" / pierde social proof. | Brief enfocado en historia y dato real, no en features. Revisión editorial con foco en autenticidad. |
-| Que otros merchants sientan trato preferencial. | Comunicar internamente el acuerdo como piloto del programa de colaboración con merchants del Content Hub; definir criterios para futuras ediciones. |
-| Acceso gratuito se extiende sin control. | Fecha de corte explícita (mes 4) y condiciones de continuidad pactadas por escrito. |
+- **Autenticidad del contenido:** los briefs son orientativos. Dasha mantiene libertad editorial; si una pieza requiere ajustes por consistencia con los lineamientos, se conversa antes de la publicación.
+- **Rotación de apps:** si una aplicación no se adecua al negocio, puede ser reemplazada dentro de los primeros 45 días por otra del listado original de interés.
+- **Uso de datos de negocio:** cualquier métrica sensible de Dasha que se comparta en contenidos será consensuada previamente. Dasha decide qué datos hace públicos.
+- **Caso de éxito final:** su publicación se acuerda al cierre, con aprobación de ambas partes sobre el material final.
+- **Continuidad post-acuerdo:** se conversará al finalizar el mes 4.
 
 ---
 
 ## 9. Próximos pasos
 
-1. Validación interna del documento con el equipo de Content Hub y con Partnerships.
-2. Confirmación con los partners de apps externas (Shop the look y Campo personalizado) sobre el acceso gratuito.
-3. Envío de la propuesta a Dasha y firma de un acuerdo marco simple (una página) con las condiciones de uso, duración, entregables y derechos de contenido.
-4. Kick-off y onboarding.
+1. Validación de esta propuesta por parte de Dasha.
+2. Confirmación con los partners externos (Shop the look y Campo personalizado) sobre el acceso.
+3. Firma de un acuerdo marco breve (1 página) con las condiciones de uso, duración, entregables y derechos de contenido.
+4. Kick-off de la colaboración y onboarding de las apps.
 5. Arranque del plan de contenidos.
 
 ---
+---
 
-## 10. Por qué este acuerdo tiene sentido para Tiendanube
+# Anexo A — Uso interno Tiendanube
 
-- **Alineado al desafío anual:** tech storytelling con un caso real y sostenido en el tiempo.
-- **Social proof de altísima calidad:** merchant con 13 años de trayectoria y una historia de reinvención.
-- **Costo marginal bajo, retorno narrativo alto:** el costo real para Tiendanube es la coordinación con partners externos; el contenido generado alimenta múltiples piezas del Content Hub.
-- **Replicable:** si funciona, se transforma en un programa de colaboración con merchants, con reglas claras y resultados medibles.
+> **Este anexo NO se comparte con la marca.** Contiene el racional estratégico, el análisis de cobertura de nuestras soluciones propias respecto de apps externas, las apps descartadas y las consideraciones de riesgo internas.
+
+## A.1 Encuadre estratégico
+
+- **Desafío del Content Hub 2026:** tech storytelling — llevar la tecnología al frente y posicionarnos como expertos en ecommerce a través de historias reales de merchants.
+- **Prioridad de foco:** soluciones propias (Marketing Nube, Pago Nube, Envío Nube, Chat Nube). Las externas solo se incluyen cuando son genuinamente complementarias y no canibalizan nuestro stack.
+- **Por qué este acuerdo tiene sentido para Tiendanube:**
+  - Un merchant con 13 años de trayectoria hablando en primera persona sobre nuestras funcionalidades es social proof de altísima calidad.
+  - Costo marginal bajo (coordinación con partners externos), retorno narrativo alto (alimenta múltiples piezas del Content Hub).
+  - Replicable: si funciona, se transforma en un programa de colaboración con merchants, con reglas claras y resultados medibles.
+
+## A.2 Criterio de selección de las 5 apps
+
+1. Foco en soluciones propias (3 de 5).
+2. **No duplicar funcionalidades propias:** las externas deben ser complementarias, no superpuestas, con Marketing Nube, Chat Nube, Pago Nube y Envío Nube.
+3. Relevancia para el momento del negocio de Dasha.
+4. Fit con la categoría accesorios.
+5. Potencial de storytelling.
+
+Resultado: **3 propias + 2 externas complementarias**.
+
+## A.3 Cobertura de Marketing Nube respecto del listado original de Dasha
+
+De las apps pedidas originalmente por Dasha, **Marketing Nube cubre 6** (3 total, 3 parcialmente). Por eso no se incluyeron en la selección.
+
+**Cobertura total:**
+
+- *Tienda Pop* → pop-up de captación de emails.
+- *Abejita (cupón y descuento pop-up)* → pop-up con cupón.
+- *Happy Birthday Apps Nube* → automation de cumpleaños.
+
+**Cobertura parcial:**
+
+- *Smartbis / Cashback IA Appsnube* → MN cubre cupones, vouchers y recompra (≈ 80% del caso de uso). No cubre cashback acumulativo puro.
+- *Notificaciones de Stock* → MN envía el mail de back-in-stock; falta solo el widget de suscripción por SKU, resoluble con un formulario simple.
+- *Revie (reviews por WhatsApp)* → MN envía el email de post-venta pidiendo la reseña (parte activable). La recolección, moderación, display y el canal WhatsApp no están en MN.
+
+**Mensaje interno:** aunque la cobertura sea parcial, no sumamos estas externas — el storytelling debe posicionar a MN como centro de la estrategia.
+
+## A.4 Apps del listado original descartadas
+
+**A) Cubiertas por Marketing Nube** (ver A.3): Tienda Pop, Abejita cupón/pop-up, Happy Birthday, Smartbis/Cashback, Notificaciones de Stock, Revie.
+
+**B) No cubiertas por MN, pero fuera por foco / storytelling** (candidatas a fase 2 o rotación a 45 días):
+
+- *Cross Up* → cross-sell/upsell on-site. Fase 2.
+- *Nuby* → programa de fidelidad / puntos. Fase 2.
+- *Abejita (reseñas de Google)* → Google Reviews; menos relevante para una marca sin locales físicos.
+- *Saludos para regalo*, *Gift Wrap App Nube* → features de checkout acotadas en narrativa. Fase 2.
+- *Cashing* → se prioriza hablar de **Pago Nube** en cualquier mención a pagos.
+
+**C) Fuera por otros motivos:**
+
+- *Sistema Nube Plus* → es un plan/suite, mejor contado como caso long-form.
+- *Facturante* → crítico operativo pero bajo atractivo visual.
+- *Astroselling* → integración con marketplaces; aleja de la historia "tienda propia 100% online".
+- *Notificaciones de venta Apps Nube* → notifica al merchant, no al cliente. Poco contenido.
+
+## A.5 KPIs internos
+
+- Alcance e impresiones (Dasha + repost Tiendanube).
+- Engagement rate por pieza y por app.
+- Menciones y saves en Instagram / Reels.
+- Tráfico desde contenidos hacia la Tienda de Aplicaciones.
+- Instalaciones / activaciones de las apps destacadas durante la campaña.
+- Sentiment cualitativo en comentarios.
+- Volumen de piezas reutilizables por el Content Hub.
+
+## A.6 Riesgos y mitigaciones
+
+| Riesgo | Mitigación |
+|---|---|
+| La app no se adapta a Dasha y el contenido pierde autenticidad. | Ventana de 45 días para rotar una app por otra del listado original. |
+| Retrasos de publicación. | Calendario editorial con fechas comprometidas al inicio. SLA de aprobación de 48 hs. |
+| Contenido demasiado "publicitario" / pierde social proof. | Brief enfocado en historia y dato real, no en features. Revisión editorial con foco en autenticidad. |
+| Otros merchants sientan trato preferencial. | Comunicar internamente el acuerdo como piloto del programa de colaboración con merchants; definir criterios públicos para futuras ediciones. |
+| Acceso gratuito se extiende sin control. | Fecha de corte explícita (mes 4) y condiciones de continuidad pactadas por escrito. |
+| Dasha comparte métricas sensibles en redes. | Consenso previo de qué datos se muestran en cada pieza. |
+
+## A.7 Plan de amplificación interna
+
+- Caso de éxito long-form al cierre: nota de blog, newsletter, video testimonial.
+- Banco de piezas reutilizables para RRSS y ads orgánicos de Tiendanube durante los 12 meses posteriores.
+- Presentación interna del caso al equipo de Content Hub y Partnerships como piloto del programa de colaboración con merchants.
