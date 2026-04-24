@@ -124,31 +124,28 @@ No participa del ciclo por renuncia efectiva esta semana. Su pot disponible (USD
 
 ## 4. Análisis de budget y redistribución entre pots
 
-### 4.1 Budget disponible por capa
+### 4.1 Budget disponible y consumo por pot (datos reales de Alina)
 
-| Pot | Titular | Monto disponible (USD) | Reportes sobre los que aplica |
-|---|---|---|---|
-| A | Brand Content Coordinator (líder del ciclo) | 163,77 | Melisa Frank |
-| B | Melisa Frank | 83,73 | Lara Benvenaste, Lucila Farías |
-| C | Patricio Casella | 21,26 | Celeste D'Andrea |
-| | **Total pots del centro de decisión** | **268,76** | |
+| Pot | Titular | Budget estimado (USD) | Utilizado (USD) | % consumo | Saldo (USD) |
+|---|---|---|---|---|---|
+| A | Clara Loustaunau (Brand Content Coordinator) | 163,77 | 47,44 | 29% | **+116,33** |
+| B | Melisa Frank | 83,73 | 132,84 | 159% | **-49,11** (overshoot) |
+| C | Patricio Casella | 21,26 | 20,50 | 96% | **+0,76** |
+| | **TOTAL centro de decisión** | **268,76** | **200,78** | **75%** | **+67,98** |
 
-### 4.2 Consumo por decisión
+### 4.2 Lectura
 
-| Pot | Persona | Ajuste | Consumo estimado | Status del pot |
-|---|---|---|---|---|
-| A | Melisa | 2% (moderado) | Parcial | **Surplus** (queda saldo) |
-| B | Lara | **Promoción 12%** | Excede el pot B | **Overshoot** |
-| B | Lusi | 0% | Cero | No consume pot B |
-| C | Celeste | 2% | Consume total | Pot C cerrado al 100% |
+El plan propuesto consume el **75% del budget consolidado del centro de decisión**, dejando un saldo de **USD 67,98 (25%)** sin utilizar. La estructura es la siguiente:
+
+- **Pot A (Clara)** consume solo el 29% porque a Meli se le aplica un mérito moderado del 2% (consistente con consolidación post-promoción reciente de 11 meses).
+- **Pot B (Meli)** marca overshoot del 59% sobre su budget asignado, originado en la promoción formal de Lara (L1 → L2 + 12%). Lusi contribuye cero al consumo al tratarse de un caso de "sin ajuste".
+- **Pot C (Patricio)** queda prácticamente cerrado (96%) con el mérito del 2% a Celeste.
 
 ### 4.3 Narrativa de la redistribución
 
-La estructura del ciclo permite gestionar los pots como un **centro de decisión consolidado**, dado que la capa N-3 (Brand Content Coordinator) centraliza el ejercicio y valida las propuestas de las capas inferiores. La redistribución propuesta es:
+La estructura del ciclo permite gestionar los pots como un **centro de decisión consolidado**, dado que la capa N-3 (Brand Content Coordinator) centraliza el ejercicio y valida las propuestas de las capas inferiores. El overshoot del pot B (-USD 49,11) se absorbe holgadamente con el surplus del pot A (+USD 116,33), reflejando el principio del framework: puede haber personas sin ajustes y otras con movimientos por encima del promedio, siempre que estén sustentados en impacto real.
 
-1. **Pot C (Patricio)** se consume al 100% con el mérito del 2% a Celeste — no hay excedente que redistribuir.
-2. **Pot B (Meli)** se sobrepasa por el 12% de Lara. El déficit se cubre con el surplus del **Pot A (Brand Content Coordinator)**, liberado por el mérito moderado (2%) aplicado a Meli.
-3. **El consumo total del centro de decisión sigue estando dentro de los USD 268,76 disponibles**, con una asignación internamente coherente con el framework: la persona que se promueve (Lara, A2, scope L2 ya formalizado) concentra la mayor parte del budget, mientras que la persona en zona alta de banda sin argumento de performance sobresaliente (Lusi, B2, 118%) libera totalmente su pot.
+**El consumo total queda por debajo del budget disponible**, lo que refuerza la coherencia con el mensaje de cautela fiscal de la compañía y le da respaldo cuantitativo al argumento frente a People Partner: el equipo en agregado consume 25% menos que el budget asignado.
 
 ### 4.4 Mensaje para defender la redistribución con People Partner
 
@@ -158,7 +155,11 @@ La Guía para Líderes habilita explícitamente este tipo de redistribución:
 
 > *"Ese porcentaje [el 2% de referencia] sirve como referencia y no como un límite fijo: el liderazgo debe analizar el contexto general del área, considerando: (1) vacantes abiertas o canceladas; (2) movimientos recientes de contratación o promociones; (3) equilibrio entre impacto, consistencia y sostenibilidad."*
 
-**Argumento resumido:** "Destinamos el ajuste más significativo del equipo a una promoción formal (Lara, A2, scope L2 ejercido desde octubre). Financiamos ese overshoot del pot directo con el surplus liberado por tres decisiones objetivas basadas en framework: (i) mérito moderado al reporte directo (Meli, consolidación post-promoción reciente de 11 meses), (ii) sin ajuste para la persona en posicionamiento alto de banda sin argumento de performance sobresaliente (Lusi, B2 a 118%), (iii) mérito alineado al guideline para el reporte de Patricio (Celeste, B2 a 91%). El consumo total se mantiene dentro del budget asignado al centro de decisión."
+**Argumento resumido:** "El centro de decisión consume USD 200,78 de un budget total de USD 268,76 — un 75% de utilización con USD 67,98 de saldo. Destinamos el ajuste más significativo a la única promoción formal del ciclo (Lara, A2, scope L2 ejercido desde octubre), financiando el overshoot del pot directo de Meli con el surplus del pot de Coordinación, liberado por tres decisiones objetivas basadas en framework: (i) mérito moderado a Meli (consolidación post-promoción de hace 11 meses), (ii) sin ajuste a Lusi (B2 a 118% de banda), (iii) mérito alineado al guideline a Celeste (B2 a 91%). El saldo restante del 25% se mantiene sin forzar reconocimientos adicionales, coherente con el principio de sustentabilidad del framework."
+
+### 4.5 Sobre el saldo de USD 67,98
+
+El budget del ciclo es un límite máximo, no un target a agotar. Dejar saldo es consistente con la premisa de que *"el presupuesto es un compromiso colectivo y debe usarse de manera estratégica, reconociendo impacto y garantizando sostenibilidad a largo plazo"*. El saldo transmite que no se forzaron reconocimientos donde el framework no los sustentaba — coherente con el mensaje de cautela presupuestaria de la compañía y con la calibración honesta de cada caso (Lusi especialmente).
 
 ---
 
@@ -213,9 +214,9 @@ El ajuste por inflación de Argentina previsto para abril/2026 es proceso **sepa
 
 ## 6. Checklist antes de cargar en Alina
 
+- [x] Propuestas cargadas y consumo agregado validado: **USD 200,78 / USD 268,76 (75%)** con saldo de USD 67,98.
 - [ ] Alineación con People Partner sobre los 4 casos (prioridad: Lara + Lusi).
 - [ ] Validación de que el 12% de Lara la deja dentro de la banda L2 (≥80% del midpoint L2).
-- [ ] Confirmación del budget consolidado del centro de decisión (pot A + B + C = 268,76 USD) y del consumo total propuesto dentro de ese margen.
 - [ ] Alineación con Meli sobre los mensajes para Lara y Lusi (especialmente Lusi).
 - [ ] Borradores de PDI iniciados para los 4 casos, con reunión de cierre agendada post-comunicación.
 - [ ] Plan de check-in intermedio (2-3 meses) para seguimiento del PDI, especialmente para Celeste (nueva reporte directa) y Lusi (caso de mayor riesgo emocional).
